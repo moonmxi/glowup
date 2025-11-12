@@ -1,0 +1,7 @@
+name: glowup_server
+description: Lightweight local backend for GlowUp client demos
+environment:
+  sdk: ">=3.2.0 <4.0.0"
+
+dependencies:
+  mime: ^1.0.4

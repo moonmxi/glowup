@@ -1,0 +1,1514 @@
+[
+  {
+    "id": "ztwyevbk010df1k6",
+    "teacherId": "wxrvtifc2ny4rysz",
+    "classroomIds": [
+      "zef1ugiy1kcfy733"
+    ],
+    "title": "晨光课堂",
+    "theme": "晨光课堂",
+    "status": "draft",
+    "createdAt": "2025-10-16T06:38:48.562359Z",
+    "steps": [
+      {
+        "kind": "lesson_plan",
+        "label": "教案设计",
+        "summary": "晨光课堂的创意故事 的课堂节奏，以故事开场、探索、共创结尾为框架。",
+        "payload": {},
+        "completed": false
+      },
+      {
+        "kind": "video",
+        "label": "开场动画",
+        "summary": "30秒引导孩子进入主题的动画片段，营造情境。",
+        "payload": {},
+        "completed": false
+      },
+      {
+        "kind": "music",
+        "label": "背景音乐",
+        "summary": "轻柔伴奏或节奏练习音乐，配合课堂关键环节。",
+        "payload": {},
+        "completed": false
+      },
+      {
+        "kind": "color_lab",
+        "label": "色彩分析",
+        "summary": "本地分析作品色彩，准备点评要点。",
+        "payload": {},
+        "completed": false
+      },
+      {
+        "kind": "rhythm_lab",
+        "label": "节奏实验室",
+        "summary": "预设课堂节奏训练素材，指导孩子听辨。",
+        "payload": {},
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": "07jb86q6mdyd84bx",
+    "teacherId": "wxrvtifc2ny4rysz",
+    "classroomIds": [
+      "zef1ugiy1kcfy733"
+    ],
+    "title": "艺术街区写真",
+    "theme": "艺术街区写真",
+    "status": "draft",
+    "createdAt": "2025-10-16T08:23:39.853635Z",
+    "steps": [
+      {
+        "kind": "lesson_plan",
+        "label": "教案设计",
+        "summary": "艺术街区写真 的课堂节奏，以故事开场、探索、共创结尾为框架。",
+        "payload": {},
+        "completed": false
+      },
+      {
+        "kind": "video",
+        "label": "开场动画",
+        "summary": "30秒引导孩子进入主题的动画片段，营造情境。",
+        "payload": {},
+        "completed": false
+      },
+      {
+        "kind": "music",
+        "label": "背景音乐",
+        "summary": "轻柔伴奏或节奏练习音乐，配合课堂关键环节。",
+        "payload": {},
+        "completed": false
+      },
+      {
+        "kind": "color_lab",
+        "label": "色彩分析",
+        "summary": "本地分析作品色彩，准备点评要点。",
+        "payload": {},
+        "completed": false
+      },
+      {
+        "kind": "rhythm_lab",
+        "label": "节奏实验室",
+        "summary": "预设课堂节奏训练素材，指导孩子听辨。",
+        "payload": {},
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": "lqmcvi9u71julc4d",
+    "teacherId": "wxrvtifc2ny4rysz",
+    "classroomIds": [
+      "zef1ugiy1kcfy733"
+    ],
+    "title": "运动会记录",
+    "theme": "运动会记录",
+    "status": "draft",
+    "createdAt": "2025-10-16T09:51:57.843535Z",
+    "steps": [
+      {
+        "kind": "lesson_plan",
+        "label": "教案设计",
+        "summary": "运动会记录 的课堂节奏，以故事开场、探索、共创结尾为框架。",
+        "payload": {},
+        "completed": false
+      },
+      {
+        "kind": "background_image",
+        "label": "教学背景图",
+        "summary": "生成可投影或打印的班级背景图，让孩子沉浸在主题故事里。",
+        "payload": {},
+        "completed": false
+      },
+      {
+        "kind": "video",
+        "label": "开场动画",
+        "summary": "30秒引导孩子进入主题的动画片段，营造情境。",
+        "payload": {},
+        "completed": false
+      },
+      {
+        "kind": "music",
+        "label": "背景音乐",
+        "summary": "轻柔伴奏或节奏练习音乐，配合课堂关键环节。",
+        "payload": {},
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": "stiyls8s4p9ng21p",
+    "teacherId": "77r28mhzwvlyf1ov",
+    "classroomIds": [
+      "72l02wprwf34vovz"
+    ],
+    "title": "运动会记录",
+    "theme": "运动会记录课堂的创意故事",
+    "status": "public",
+    "createdAt": "2025-10-16T13:04:12.493926Z",
+    "steps": [
+      {
+        "kind": "lesson_plan",
+        "label": "教案设计",
+        "summary": "运动会记录课堂的创意故事 的课堂节奏，以故事开场、探索、共创结尾为框架。",
+        "payload": {},
+        "completed": false
+      },
+      {
+        "kind": "background_image",
+        "label": "教学背景图",
+        "summary": "生成可投影或打印的班级背景图，让孩子沉浸在主题故事里。",
+        "payload": {},
+        "completed": false
+      },
+      {
+        "kind": "video",
+        "label": "开场动画",
+        "summary": "30秒引导孩子进入主题的动画片段，营造情境。",
+        "payload": {},
+        "completed": false
+      },
+      {
+        "kind": "music",
+        "label": "背景音乐",
+        "summary": "轻柔伴奏或节奏练习音乐，配合课堂关键环节。",
+        "payload": {},
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": "ma78y971x3tv7roe",
+    "teacherId": "v6dwg0hyarqw66sx",
+    "classroomIds": [
+      "6zmecnivbtaospep"
+    ],
+    "title": "龟兔赛跑",
+    "theme": "缤纷课堂的创意故事",
+    "status": "public",
+    "createdAt": "2025-10-17T12:40:37.468481Z",
+    "steps": [
+      {
+        "kind": "lesson_plan",
+        "label": "教案设计",
+        "summary": "缤纷课堂的创意故事 的课堂节奏，以故事开场、探索、共创结尾为框架。",
+        "payload": {},
+        "completed": false
+      },
+      {
+        "kind": "background_image",
+        "label": "教学背景图",
+        "summary": "生成可投影或打印的班级背景图，让孩子沉浸在主题故事里。",
+        "payload": {},
+        "completed": false
+      },
+      {
+        "kind": "video",
+        "label": "开场动画",
+        "summary": "30秒引导孩子进入主题的动画片段，营造情境。",
+        "payload": {},
+        "completed": false
+      },
+      {
+        "kind": "music",
+        "label": "背景音乐",
+        "summary": "轻柔伴奏或节奏练习音乐，配合课堂关键环节。",
+        "payload": {},
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": "uk77epa8xduznox8",
+    "teacherId": "77r28mhzwvlyf1ov",
+    "classroomIds": [
+      "72l02wprwf34vovz"
+    ],
+    "title": "踏青",
+    "theme": "踏青记录",
+    "status": "public",
+    "createdAt": "2025-10-20T14:14:28.105816Z",
+    "steps": [
+      {
+        "kind": "lesson_plan",
+        "label": "教案设计",
+        "summary": "### 教学目标\n1. 激发学生的创意表达能力，通过绘画记录“踏青”主题。\n2. 学习色彩混合的基本技巧，了解色彩的搭配和运用。\n3. 通过故事讲述增强语言表达能力，培养学生的观察力和想象力。\n\n### 准备材料\n- 水彩颜料、油画棒\n- 画纸、调色盘\n- 讲述草图的白板和记号笔\n- 故事分享小卡片\n\n### 课堂流程\n1. **导入活动（5分钟）**\n   - 通过问答引入“踏青”主题，鼓励学生分享自己的经历。\n   \n2. **创意表达（10分钟）**\n   - 学生用简单线条画出自己记忆中的“踏青”场景，可以是草地、花朵或小动物。\n   \n3. **色彩混合（15分钟）**\n   - 示范色彩混合技巧，学生尝试在调色盘中混合颜料，选择合适的颜色为自己的作品上色。\n   \n4. **故事讲述（10分钟）**\n   - 鼓励每位学生分享自己的踩青故事，结合绘画，给作品增添生动的细节。\n\n5. **展示与反馈（5分钟）**\n   - 学生展示作品，互相欣赏，教师给予积极反馈。\n\n### 互动提问与差异化建议\n- 提问：你在踏青时观察到了什么特别的细节？你选择什么颜色来表达你的感受？\n- 建议：对于色彩敏感的学生，可以提供更丰富的色彩样本；对想要增强表达的学生，可鼓励他们用词汇丰富故事。\n\n### 课堂总结与延伸任务\n总结今天的学习内容，鼓励学生继续在家庭中探索更多关于“踏青”的细节，建议他们以日记的形式记录并绘制下一次的踏青体验，并在下节课分享他们的新发现。",
+        "payload": {
+          "preview": {
+            "type": "text",
+            "title": "45分钟教案",
+            "body": "### 教学目标\n1. 激发学生的创意表达能力，通过绘画记录“踏青”主题。\n2. 学习色彩混合的基本技巧，了解色彩的搭配和运用。\n3. 通过故事讲述增强语言表达能力，培养学生的观察力和想象力。\n\n### 准备材料\n- 水彩颜料、油画棒\n- 画纸、调色盘\n- 讲述草图的白板和记号笔\n- 故事分享小卡片\n\n### 课堂流程\n1. **导入活动（5分钟）**\n   - 通过问答引入“踏青”主题，鼓励学生分享自己的经历。\n   \n2. **创意表达（10分钟）**\n   - 学生用简单线条画出自己记忆中的“踏青”场景，可以是草地、花朵或小动物。\n   \n3. **色彩混合（15分钟）**\n   - 示范色彩混合技巧，学生尝试在调色盘中混合颜料，选择合适的颜色为自己的作品上色。\n   \n4. **故事讲述（10分钟）**\n   - 鼓励每位学生分享自己的踩青故事，结合绘画，给作品增添生动的细节。\n\n5. **展示与反馈（5分钟）**\n   - 学生展示作品，互相欣赏，教师给予积极反馈。\n\n### 互动提问与差异化建议\n- 提问：你在踏青时观察到了什么特别的细节？你选择什么颜色来表达你的感受？\n- 建议：对于色彩敏感的学生，可以提供更丰富的色彩样本；对想要增强表达的学生，可鼓励他们用词汇丰富故事。\n\n### 课堂总结与延伸任务\n总结今天的学习内容，鼓励学生继续在家庭中探索更多关于“踏青”的细节，建议他们以日记的形式记录并绘制下一次的踏青体验，并在下节课分享他们的新发现。"
+          },
+          "metadata": {
+            "metadata": {},
+            "subject": "美术",
+            "grade": "三年级",
+            "focus": [
+              "创意表达",
+              "色彩混合",
+              "故事讲述"
+            ],
+            "description": "围绕“踏青记录”设计一次45分钟的课堂，包含互动和延伸。",
+            "contentId": "8g8h5q6wmroa0xba",
+            "uploadedAt": "2025-10-20T22:16:28.984188"
+          }
+        },
+        "completed": true
+      },
+      {
+        "kind": "background_image",
+        "label": "教学背景图",
+        "summary": "小光建议的课堂背景图已经准备好，可直接投影或打印使用。",
+        "payload": {
+          "preview": {
+            "type": "image",
+            "imageUrl": "https://dalleproduse.blob.core.windows.net/private/images/947e485c-b473-49ad-9b5f-fd0f928faa0b/generated_00.png?se=2025-10-21T14%3A17%3A50Z&sig=fYii9GzQI92Gk6AGE0bK9Y9rb0hJPySOJ%2FvnnTgag%2FY%3D&ske=2025-10-24T19%3A01%3A20Z&skoid=09ba021e-c417-441c-b203-c81e5dcd7b7f&sks=b&skt=2025-10-17T19%3A01%3A20Z&sktid=33e01921-4d64-4f8c-a055-5bdaffd5e33d&skv=2020-10-02&sp=r&spr=https&sr=b&sv=2020-10-02",
+            "prompt": "Illustrate a warm classroom backdrop for an elementary art lesson.\nTheme focus: 踏青记录.\nIncorporate details from the lesson plan: ### 教学目标\n1. 激发学生的创意表达能力，通过绘画记录“踏青”主题。\n2. 学习色彩混合的基本技巧，了解色彩的搭配和运用。\n3. 通过故事讲述增强语言表达能力，培养学生的观察力和想象力。\n\n### 准备材料\n- 水彩颜料、油画棒\n- 画纸、调色盘\n- 讲述草图的白板和记号笔\n- 故事分享小卡片\n\n### 课堂流程\n1. **导入活动（5分钟）**\n   - 通过问答引入“踏青”主题，鼓励学生分享自己的经历。\n   \n2. **创意表达（10分钟）**\n   - 学生用简单线条画出自己记忆中的“踏青”场景，可以是草地、花朵或小动物。\n   \n3. **色彩混合（15分钟）**\n   - 示范色彩混合技巧，学生尝试在调色盘中混合颜料，选择合适的颜色为自己的作品上色。\n   \n4. **故事讲述（10分钟）**\n   - 鼓励每位学生分享自己的踩青故事，结合绘画，给作品增添生动的细节。\n\n5. **展示与反馈（5分钟）**\n   - 学生展示作品，互相欣赏，教师给予积极反馈。\n\n### 互动提问与差异化建议\n- 提问：你在踏青时观察到了什么特别的细节？你选择什么颜色来表达你的感受？\n- 建议：对于色彩敏感的学生，可以提供更丰富的色彩样本；对想要增强表达的学生，可鼓励他们用词汇丰富故事。\n\n### 课堂总结与延伸任务\n总结今天的学习内容，鼓励学生继续在家庭中探索更多关于“踏青”的细节，建议他们以日记的形式记录并绘制下一次的踏青体验，并在下节课分享他们的新发现。.\nUse gentle lighting, handcrafted textures, encouraging atmosphere, and keep characters ambiguous so teachers can reuse the image.\n"
+          },
+          "metadata": {
+            "metadata": {},
+            "imageUrl": "https://dalleproduse.blob.core.windows.net/private/images/947e485c-b473-49ad-9b5f-fd0f928faa0b/generated_00.png?se=2025-10-21T14%3A17%3A50Z&sig=fYii9GzQI92Gk6AGE0bK9Y9rb0hJPySOJ%2FvnnTgag%2FY%3D&ske=2025-10-24T19%3A01%3A20Z&skoid=09ba021e-c417-441c-b203-c81e5dcd7b7f&sks=b&skt=2025-10-17T19%3A01%3A20Z&sktid=33e01921-4d64-4f8c-a055-5bdaffd5e33d&skv=2020-10-02&sp=r&spr=https&sr=b&sv=2020-10-02",
+            "prompt": "Illustrate a warm classroom backdrop for an elementary art lesson.\nTheme focus: 踏青记录.\nIncorporate details from the lesson plan: ### 教学目标\n1. 激发学生的创意表达能力，通过绘画记录“踏青”主题。\n2. 学习色彩混合的基本技巧，了解色彩的搭配和运用。\n3. 通过故事讲述增强语言表达能力，培养学生的观察力和想象力。\n\n### 准备材料\n- 水彩颜料、油画棒\n- 画纸、调色盘\n- 讲述草图的白板和记号笔\n- 故事分享小卡片\n\n### 课堂流程\n1. **导入活动（5分钟）**\n   - 通过问答引入“踏青”主题，鼓励学生分享自己的经历。\n   \n2. **创意表达（10分钟）**\n   - 学生用简单线条画出自己记忆中的“踏青”场景，可以是草地、花朵或小动物。\n   \n3. **色彩混合（15分钟）**\n   - 示范色彩混合技巧，学生尝试在调色盘中混合颜料，选择合适的颜色为自己的作品上色。\n   \n4. **故事讲述（10分钟）**\n   - 鼓励每位学生分享自己的踩青故事，结合绘画，给作品增添生动的细节。\n\n5. **展示与反馈（5分钟）**\n   - 学生展示作品，互相欣赏，教师给予积极反馈。\n\n### 互动提问与差异化建议\n- 提问：你在踏青时观察到了什么特别的细节？你选择什么颜色来表达你的感受？\n- 建议：对于色彩敏感的学生，可以提供更丰富的色彩样本；对想要增强表达的学生，可鼓励他们用词汇丰富故事。\n\n### 课堂总结与延伸任务\n总结今天的学习内容，鼓励学生继续在家庭中探索更多关于“踏青”的细节，建议他们以日记的形式记录并绘制下一次的踏青体验，并在下节课分享他们的新发现。.\nUse gentle lighting, handcrafted textures, encouraging atmosphere, and keep characters ambiguous so teachers can reuse the image.\n",
+            "raw": {
+              "created": 1760969860,
+              "data": [
+                {
+                  "content_filter_results": {
+                    "hate": {
+                      "filtered": false,
+                      "severity": "safe"
+                    },
+                    "self_harm": {
+                      "filtered": false,
+                      "severity": "safe"
+                    },
+                    "sexual": {
+                      "filtered": false,
+                      "severity": "safe"
+                    },
+                    "violence": {
+                      "filtered": false,
+                      "severity": "safe"
+                    }
+                  },
+                  "prompt_filter_results": {
+                    "hate": {
+                      "filtered": false,
+                      "severity": "safe"
+                    },
+                    "profanity": {
+                      "detected": false,
+                      "filtered": false
+                    },
+                    "self_harm": {
+                      "filtered": false,
+                      "severity": "safe"
+                    },
+                    "sexual": {
+                      "filtered": false,
+                      "severity": "safe"
+                    },
+                    "violence": {
+                      "filtered": false,
+                      "severity": "safe"
+                    }
+                  },
+                  "revised_prompt": "Illustrate a warm and inviting elementary classroom setup for an art lesson with a focus on '踏青记录' (recording outdoor exploration moments). The classroom should have colorful decorations, including watercolor paintings of meadows, flowers, small animals, and bright sketches pinned on a bulletin board. On tables, arrange watercolor paint sets, oil pastels, palettes, and drawing papers neatly. Include a whiteboard with rough sketches of grass patches and flowers drawn with markers and small storytelling cards nearby. Show students sitting on chairs actively engaged in drawing, each with unique back-facing hairstyles and clothing, reflecting mixed descents (e.g. Black, South Asian, Hispanic, Caucasian). Ensure each child is wearing casual, kid-appropriate outfits. Add a teacher—female, Middle-Eastern descent—with a kind expression, holding a palette to demonstrate color mixing. The atmosphere should be encouraging and cozy with soft, warm lighting. Include handcrafted textures. Avoid showing facial ambiguity. The scene should promote inclusivity and creativity through artistic visuals.",
+                  "url": "https://dalleproduse.blob.core.windows.net/private/images/947e485c-b473-49ad-9b5f-fd0f928faa0b/generated_00.png?se=2025-10-21T14%3A17%3A50Z&sig=fYii9GzQI92Gk6AGE0bK9Y9rb0hJPySOJ%2FvnnTgag%2FY%3D&ske=2025-10-24T19%3A01%3A20Z&skoid=09ba021e-c417-441c-b203-c81e5dcd7b7f&sks=b&skt=2025-10-17T19%3A01%3A20Z&sktid=33e01921-4d64-4f8c-a055-5bdaffd5e33d&skv=2020-10-02&sp=r&spr=https&sr=b&sv=2020-10-02"
+                }
+              ]
+            },
+            "contentId": "iho4inpomue9ppx9",
+            "uploadedAt": "2025-10-20T22:18:03.914007"
+          }
+        },
+        "completed": true
+      },
+      {
+        "kind": "video",
+        "label": "开场动画",
+        "summary": "30秒引导孩子进入主题的动画片段，营造情境。",
+        "payload": {
+          "preview": {},
+          "metadata": {}
+        },
+        "completed": false
+      },
+      {
+        "kind": "music",
+        "label": "背景音乐",
+        "summary": "轻柔伴奏或节奏练习音乐，配合课堂关键环节。",
+        "payload": {
+          "preview": {},
+          "metadata": {}
+        },
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": "rxya3bvvb49crli6",
+    "teacherId": "ctkm26bfp792zkov",
+    "classroomIds": [
+      "6rnximlxebth1ds8"
+    ],
+    "title": "自习室记录",
+    "theme": "记录自习室里面大家认真学习的场景",
+    "status": "public",
+    "createdAt": "2025-10-21T08:02:33.583658Z",
+    "steps": [
+      {
+        "kind": "lesson_plan",
+        "label": "教案设计",
+        "summary": "目标：提升创意表达能力，掌握基本的色彩混合技巧\n流程：导入与引导（10分钟）、创意绘画（20分钟）、故事分享（15分钟）\n复习色彩混合技巧",
+        "payload": {
+          "preview": {
+            "type": "lesson_plan",
+            "objectives": [
+              "提升创意表达能力",
+              "掌握基本的色彩混合技巧"
+            ],
+            "materials": [
+              "水彩笔",
+              "画纸",
+              "调色盘",
+              "故事卡片"
+            ],
+            "stages": [
+              {
+                "name": "导入与引导",
+                "duration": "10分钟",
+                "goal": "激发学生对自习室学习场景的思考与描述",
+                "activities": [
+                  "教师展示自习室的图片",
+                  "学生分享自己的学习感受"
+                ],
+                "teacher": [
+                  "提问引导学生",
+                  "鼓励学生分享"
+                ],
+                "students": [
+                  "描述自己的学习场景",
+                  "表达对同学学习的看法"
+                ],
+                "questions": [
+                  "你觉得自习室里面大家在做什么？",
+                  "有什么让你印象深刻的学习时刻？"
+                ],
+                "materials": [
+                  "自习室图片",
+                  "白板"
+                ]
+              },
+              {
+                "name": "创意绘画",
+                "duration": "20分钟",
+                "goal": "通过绘画表达自习室的学习场景",
+                "activities": [
+                  "学生开始绘制自习室场景",
+                  "教师巡回指导"
+                ],
+                "teacher": [
+                  "提供色彩混合示范",
+                  "鼓励创意表达"
+                ],
+                "students": [
+                  "选择自己喜爱的颜色",
+                  "进行相应的绘画创作"
+                ],
+                "questions": [
+                  "你选择的颜色代表了什么？",
+                  "你的画中谁在学习？"
+                ],
+                "materials": [
+                  "水彩笔",
+                  "画纸",
+                  "调色盘"
+                ]
+              },
+              {
+                "name": "故事分享",
+                "duration": "15分钟",
+                "goal": "通过大家的作品讲述学习的故事",
+                "activities": [
+                  "每位学生展示自己的作品",
+                  "分享作品背后的故事"
+                ],
+                "teacher": [
+                  "鼓励互相欣赏",
+                  "引导学生提问"
+                ],
+                "students": [
+                  "逐一展示自己的作品",
+                  "聆听同学的故事"
+                ],
+                "questions": [
+                  "你的画传达了什么故事？",
+                  "还有其他同学的画让你印象深刻吗？"
+                ],
+                "materials": [
+                  "学生作品"
+                ]
+              }
+            ],
+            "questions": [
+              "如何在日常学习中找到灵感？",
+              "色彩在我们的学习中起到什么作用？"
+            ],
+            "differentiation": [
+              "提供不同难度的绘画模板",
+              "高级学生可以加入更多细节"
+            ],
+            "summary": [
+              "复习色彩混合技巧",
+              "强调创意和故事的重要性"
+            ],
+            "extensions": [
+              "请学生回家观察自己的学习环境，并用色彩记录下来"
+            ]
+          },
+          "metadata": {
+            "metadata": {},
+            "subject": "美术",
+            "grade": "三年级",
+            "focus": [
+              "创意表达",
+              "色彩混合",
+              "故事讲述"
+            ],
+            "description": "围绕“记录自习室里面大家认真学习的场景”设计一次45分钟的课堂，包含互动和延伸。",
+            "rawPlan": "{\n  \"objectives\": [\"提升创意表达能力\", \"掌握基本的色彩混合技巧\"],\n  \"materials\": [\"水彩笔\", \"画纸\", \"调色盘\", \"故事卡片\"],\n  \"stages\": [\n    {\n      \"name\": \"导入与引导\",\n      \"duration\": \"10分钟\",\n      \"goal\": \"激发学生对自习室学习场景的思考与描述\",\n      \"activities\": [\"教师展示自习室的图片\", \"学生分享自己的学习感受\"],\n      \"teacherActions\": [\"提问引导学生\", \"鼓励学生分享\"],\n      \"studentActivities\": [\"描述自己的学习场景\", \"表达对同学学习的看法\"],\n      \"keyQuestions\": [\"你觉得自习室里面大家在做什么？\", \"有什么让你印象深刻的学习时刻？\"],\n      \"materials\": [\"自习室图片\", \"白板\"]\n    },\n    {\n      \"name\": \"创意绘画\",\n      \"duration\": \"20分钟\",\n      \"goal\": \"通过绘画表达自习室的学习场景\",\n      \"activities\": [\"学生开始绘制自习室场景\", \"教师巡回指导\"],\n      \"teacherActions\": [\"提供色彩混合示范\", \"鼓励创意表达\"],\n      \"studentActivities\": [\"选择自己喜爱的颜色\", \"进行相应的绘画创作\"],\n      \"keyQuestions\": [\"你选择的颜色代表了什么？\", \"你的画中谁在学习？\"],\n      \"materials\": [\"水彩笔\", \"画纸\", \"调色盘\"]\n    },\n    {\n      \"name\": \"故事分享\",\n      \"duration\": \"15分钟\",\n      \"goal\": \"通过大家的作品讲述学习的故事\",\n      \"activities\": [\"每位学生展示自己的作品\", \"分享作品背后的故事\"],\n      \"teacherActions\": [\"鼓励互相欣赏\", \"引导学生提问\"],\n      \"studentActivities\": [\"逐一展示自己的作品\", \"聆听同学的故事\"],\n      \"keyQuestions\": [\"你的画传达了什么故事？\", \"还有其他同学的画让你印象深刻吗？\"],\n      \"materials\": [\"学生作品\"]\n    }\n  ],\n  \"questions\": [\"如何在日常学习中找到灵感？\", \"色彩在我们的学习中起到什么作用？\"],\n  \"differentiation\": [\"提供不同难度的绘画模板\", \"高级学生可以加入更多细节\"],\n  \"summary\": [\"复习色彩混合技巧\", \"强调创意和故事的重要性\"],\n  \"extensions\": [\"请学生回家观察自己的学习环境，并用色彩记录下来\"]\n}",
+            "structuredPlan": {
+              "objectives": [
+                "提升创意表达能力",
+                "掌握基本的色彩混合技巧"
+              ],
+              "materials": [
+                "水彩笔",
+                "画纸",
+                "调色盘",
+                "故事卡片"
+              ],
+              "stages": [
+                {
+                  "name": "导入与引导",
+                  "duration": "10分钟",
+                  "goal": "激发学生对自习室学习场景的思考与描述",
+                  "activities": [
+                    "教师展示自习室的图片",
+                    "学生分享自己的学习感受"
+                  ],
+                  "teacherActions": [
+                    "提问引导学生",
+                    "鼓励学生分享"
+                  ],
+                  "studentActivities": [
+                    "描述自己的学习场景",
+                    "表达对同学学习的看法"
+                  ],
+                  "keyQuestions": [
+                    "你觉得自习室里面大家在做什么？",
+                    "有什么让你印象深刻的学习时刻？"
+                  ],
+                  "materials": [
+                    "自习室图片",
+                    "白板"
+                  ]
+                },
+                {
+                  "name": "创意绘画",
+                  "duration": "20分钟",
+                  "goal": "通过绘画表达自习室的学习场景",
+                  "activities": [
+                    "学生开始绘制自习室场景",
+                    "教师巡回指导"
+                  ],
+                  "teacherActions": [
+                    "提供色彩混合示范",
+                    "鼓励创意表达"
+                  ],
+                  "studentActivities": [
+                    "选择自己喜爱的颜色",
+                    "进行相应的绘画创作"
+                  ],
+                  "keyQuestions": [
+                    "你选择的颜色代表了什么？",
+                    "你的画中谁在学习？"
+                  ],
+                  "materials": [
+                    "水彩笔",
+                    "画纸",
+                    "调色盘"
+                  ]
+                },
+                {
+                  "name": "故事分享",
+                  "duration": "15分钟",
+                  "goal": "通过大家的作品讲述学习的故事",
+                  "activities": [
+                    "每位学生展示自己的作品",
+                    "分享作品背后的故事"
+                  ],
+                  "teacherActions": [
+                    "鼓励互相欣赏",
+                    "引导学生提问"
+                  ],
+                  "studentActivities": [
+                    "逐一展示自己的作品",
+                    "聆听同学的故事"
+                  ],
+                  "keyQuestions": [
+                    "你的画传达了什么故事？",
+                    "还有其他同学的画让你印象深刻吗？"
+                  ],
+                  "materials": [
+                    "学生作品"
+                  ]
+                }
+              ],
+              "questions": [
+                "如何在日常学习中找到灵感？",
+                "色彩在我们的学习中起到什么作用？"
+              ],
+              "differentiation": [
+                "提供不同难度的绘画模板",
+                "高级学生可以加入更多细节"
+              ],
+              "summary": [
+                "复习色彩混合技巧",
+                "强调创意和故事的重要性"
+              ],
+              "extensions": [
+                "请学生回家观察自己的学习环境，并用色彩记录下来"
+              ]
+            }
+          }
+        },
+        "completed": false
+      },
+      {
+        "kind": "background_image",
+        "label": "教学背景图",
+        "summary": "小光建议的课堂背景图已经准备好，可直接投影或打印使用。",
+        "payload": {
+          "preview": {
+            "type": "image",
+            "imageUrl": "https://dalleproduse.blob.core.windows.net/private/images/7100245a-a354-4daf-87df-470e7766d6a8/generated_00.png?se=2025-10-22T09%3A11%3A58Z&sig=NLeMqIMoi7qjS3gn2RhoQcBB0amAbNzkmzRYArNQOIg%3D&ske=2025-10-24T15%3A18%3A32Z&skoid=09ba021e-c417-441c-b203-c81e5dcd7b7f&sks=b&skt=2025-10-17T15%3A18%3A32Z&sktid=33e01921-4d64-4f8c-a055-5bdaffd5e33d&skv=2020-10-02&sp=r&spr=https&sr=b&sv=2020-10-02",
+            "prompt": "Illustrate a warm classroom backdrop for an elementary art lesson.\nTheme focus: 记录自习室里面大家认真学习的场景.\nIncorporate details from the lesson plan: 目标：提升创意表达能力，掌握基本的色彩混合技巧\n流程：导入与引导（10分钟）、创意绘画（20分钟）、故事分享（15分钟）\n复习色彩混合技巧.\nUse gentle lighting, handcrafted textures, encouraging atmosphere, and keep characters ambiguous so teachers can reuse the image.\n"
+          },
+          "metadata": {
+            "metadata": {},
+            "imageUrl": "https://dalleproduse.blob.core.windows.net/private/images/7100245a-a354-4daf-87df-470e7766d6a8/generated_00.png?se=2025-10-22T09%3A11%3A58Z&sig=NLeMqIMoi7qjS3gn2RhoQcBB0amAbNzkmzRYArNQOIg%3D&ske=2025-10-24T15%3A18%3A32Z&skoid=09ba021e-c417-441c-b203-c81e5dcd7b7f&sks=b&skt=2025-10-17T15%3A18%3A32Z&sktid=33e01921-4d64-4f8c-a055-5bdaffd5e33d&skv=2020-10-02&sp=r&spr=https&sr=b&sv=2020-10-02",
+            "prompt": "Illustrate a warm classroom backdrop for an elementary art lesson.\nTheme focus: 记录自习室里面大家认真学习的场景.\nIncorporate details from the lesson plan: 目标：提升创意表达能力，掌握基本的色彩混合技巧\n流程：导入与引导（10分钟）、创意绘画（20分钟）、故事分享（15分钟）\n复习色彩混合技巧.\nUse gentle lighting, handcrafted textures, encouraging atmosphere, and keep characters ambiguous so teachers can reuse the image.\n",
+            "raw": {
+              "created": 1761037909,
+              "data": [
+                {
+                  "content_filter_results": {
+                    "hate": {
+                      "filtered": false,
+                      "severity": "safe"
+                    },
+                    "self_harm": {
+                      "filtered": false,
+                      "severity": "safe"
+                    },
+                    "sexual": {
+                      "filtered": false,
+                      "severity": "safe"
+                    },
+                    "violence": {
+                      "filtered": false,
+                      "severity": "safe"
+                    }
+                  },
+                  "prompt_filter_results": {
+                    "hate": {
+                      "filtered": false,
+                      "severity": "safe"
+                    },
+                    "profanity": {
+                      "detected": false,
+                      "filtered": false
+                    },
+                    "self_harm": {
+                      "filtered": false,
+                      "severity": "safe"
+                    },
+                    "sexual": {
+                      "filtered": false,
+                      "severity": "safe"
+                    },
+                    "violence": {
+                      "filtered": false,
+                      "severity": "safe"
+                    }
+                  },
+                  "revised_prompt": "An elementary school classroom with a warm and inviting atmosphere, designed for an art lesson on creativity and basic color mixing techniques. The classroom is brightly lit with gentle, soft lighting, and decorated with colorful handcrafted textures, including student-made art pieces and craft supplies neatly organized on shelves. The room has round wooden tables, where students are sitting and focused on creating their artwork. At one table, some students are mixing colors on palettes, experimenting with hues and blending. In the front, there is a teacher energetically guiding the lesson and explaining color mixing techniques. On another table, students are engaged in sharing stories inspired by their art pieces. All characters are kept ambiguous, maintaining diverse representation with equal focus on descent and gender. Small details such as colored pencils, brushes, and art paper scattered thoughtfully add to the encouraging atmosphere. Suitable for re-use in various teaching contexts.",
+                  "url": "https://dalleproduse.blob.core.windows.net/private/images/7100245a-a354-4daf-87df-470e7766d6a8/generated_00.png?se=2025-10-22T09%3A11%3A58Z&sig=NLeMqIMoi7qjS3gn2RhoQcBB0amAbNzkmzRYArNQOIg%3D&ske=2025-10-24T15%3A18%3A32Z&skoid=09ba021e-c417-441c-b203-c81e5dcd7b7f&sks=b&skt=2025-10-17T15%3A18%3A32Z&sktid=33e01921-4d64-4f8c-a055-5bdaffd5e33d&skv=2020-10-02&sp=r&spr=https&sr=b&sv=2020-10-02"
+                }
+              ]
+            }
+          }
+        },
+        "completed": false
+      },
+      {
+        "kind": "video",
+        "label": "开场动画",
+        "summary": "开场动画展示自习室，孩子们专注学习，营造学习氛围，激发学生的互动感。\n小光生成了课堂开场动画，可直接播放或下载。",
+        "payload": {
+          "preview": {
+            "type": "storyboard",
+            "segments": [
+              {
+                "scene": "自习室全景，孩子们安静地坐在桌子前，各自专注于学习。",
+                "narration": "欢迎来到我们的自习室！这里是知识的殿堂，大家都在努力学习呢。",
+                "cameraHint": "镜头缓慢移动，展示不同孩子的专注表情。",
+                "musicCue": "轻柔的背景音乐，鼓励学习气氛。"
+              },
+              {
+                "scene": "特写镜头，一名学生在认真写作业，旁边的同学在低声讨论。",
+                "narration": "看！有的同学在写作业，有的同学在帮助彼此，他们都在努力哦！",
+                "cameraHint": "切换到特写，聚焦在同学之间的互动。",
+                "musicCue": "音乐音量稍微增强，增添活跃感。"
+              },
+              {
+                "scene": "镜头转向黑板，上面写满了学习要点。",
+                "narration": "我们一起制定学习目标，迈向成功的每一步！",
+                "musicCue": "音乐渐弱，营造反思的氛围。"
+              }
+            ],
+            "ambient": "低声的翻书声和笔写字的声音",
+            "script": "欢迎来到我们的自习室！这里是知识的殿堂，大家都在努力学习呢。\n看！有的同学在写作业，有的同学在帮助彼此，他们都在努力哦！\n我们一起制定学习目标，迈向成功的每一步！",
+            "videoUrl": "https://filesystem.site/cdn/20251021/62a1b285ea869829b4c172211ca30b.mp4",
+            "fileUrl": "https://filesystem.site/cdn/20251021/62a1b285ea869829b4c172211ca30b.mp4"
+          },
+          "metadata": {
+            "metadata": {},
+            "summary": "开场动画展示自习室，孩子们专注学习，营造学习氛围，激发学生的互动感。",
+            "segments": [
+              {
+                "scene": "自习室全景，孩子们安静地坐在桌子前，各自专注于学习。",
+                "narration": "欢迎来到我们的自习室！这里是知识的殿堂，大家都在努力学习呢。",
+                "cameraHint": "镜头缓慢移动，展示不同孩子的专注表情。",
+                "musicCue": "轻柔的背景音乐，鼓励学习气氛。"
+              },
+              {
+                "scene": "特写镜头，一名学生在认真写作业，旁边的同学在低声讨论。",
+                "narration": "看！有的同学在写作业，有的同学在帮助彼此，他们都在努力哦！",
+                "cameraHint": "切换到特写，聚焦在同学之间的互动。",
+                "musicCue": "音乐音量稍微增强，增添活跃感。"
+              },
+              {
+                "scene": "镜头转向黑板，上面写满了学习要点。",
+                "narration": "我们一起制定学习目标，迈向成功的每一步！",
+                "musicCue": "音乐渐弱，营造反思的氛围。"
+              }
+            ],
+            "ambientSound": "低声的翻书声和笔写字的声音",
+            "script": "欢迎来到我们的自习室！这里是知识的殿堂，大家都在努力学习呢。\n看！有的同学在写作业，有的同学在帮助彼此，他们都在努力哦！\n我们一起制定学习目标，迈向成功的每一步！",
+            "rawText": "{\n  \"summary\": \"开场动画展示自习室，孩子们专注学习，营造学习氛围，激发学生的互动感。\",\n  \"segments\": [\n    {\n      \"scene\": \"自习室全景，孩子们安静地坐在桌子前，各自专注于学习。\",\n      \"narration\": \"欢迎来到我们的自习室！这里是知识的殿堂，大家都在努力学习呢。\",\n      \"cameraHint\": \"镜头缓慢移动，展示不同孩子的专注表情。\",\n      \"musicCue\": \"轻柔的背景音乐，鼓励学习气氛。\"\n    },\n    {\n      \"scene\": \"特写镜头，一名学生在认真写作业，旁边的同学在低声讨论。\",\n      \"narration\": \"看！有的同学在写作业，有的同学在帮助彼此，他们都在努力哦！\",\n      \"cameraHint\": \"切换到特写，聚焦在同学之间的互动。\",\n      \"musicCue\": \"音乐音量稍微增强，增添活跃感。\"\n    },\n    {\n      \"scene\": \"镜头转向黑板，上面写满了学习要点。\",\n      \"narration\": \"我们一起制定学习目标，迈向成功的每一步！\",\n      \"musicCue\": \"音乐渐弱，营造反思的氛围。\"\n    }\n  ],\n  \"ambientSound\": \"低声的翻书声和笔写字的声音\",\n  \"script\": \"欢迎来到我们的自习室！这里是知识的殿堂，大家都在努力学习呢。\\n看！有的同学在写作业，有的同学在帮助彼此，他们都在努力哦！\\n我们一起制定学习目标，迈向成功的每一步！\"\n}",
+            "videoUrl": "https://filesystem.site/cdn/20251021/62a1b285ea869829b4c172211ca30b.mp4"
+          }
+        },
+        "completed": false
+      },
+      {
+        "kind": "music",
+        "label": "背景音乐",
+        "summary": "轻柔伴奏或节奏练习音乐，配合课堂关键环节。",
+        "payload": {
+          "preview": {},
+          "metadata": {}
+        },
+        "completed": false
+      }
+    ],
+    "metadata": {
+      "sharedContentId": "4udngpy1zotx8hac",
+      "sharedContentUpdatedAt": "2025-10-21T17:21:20.063804",
+      "sharedContentOwnerId": "ctkm26bfp792zkov"
+    }
+  },
+  {
+    "id": "sa2496vba828z243",
+    "teacherId": "ctkm26bfp792zkov",
+    "classroomIds": [
+      "6rnximlxebth1ds8"
+    ],
+    "title": "记录运动会精彩瞬间",
+    "theme": "记录运动会精彩瞬间",
+    "status": "public",
+    "createdAt": "2025-10-21T10:20:02.758449Z",
+    "steps": [
+      {
+        "kind": "lesson_plan",
+        "label": "教案设计",
+        "summary": "目标：激发学生的创意表达能力，掌握基本的色彩混合技巧\n流程：导入与讨论（10分钟）、创作准备（5分钟）、创意绘画（25分钟）、分享与反馈（5分钟）\n今天我们通过绘画记录了运动会的精彩瞬间，运用了色彩混合表达情感",
+        "payload": {
+          "preview": {
+            "type": "lesson_plan",
+            "objectives": [
+              "激发学生的创意表达能力",
+              "掌握基本的色彩混合技巧"
+            ],
+            "materials": [
+              "绘画纸",
+              "水彩颜料",
+              "画笔",
+              "运动会图片"
+            ],
+            "stages": [
+              {
+                "name": "导入与讨论",
+                "duration": "10分钟",
+                "goal": "引导学生回忆运动会的精彩瞬间",
+                "activities": [
+                  "展示运动会精彩瞬间图片",
+                  "引导学生描述这些瞬间"
+                ],
+                "teacher": [
+                  "提问引导学生回忆",
+                  "分享自己的运动会经历"
+                ],
+                "students": [
+                  "参与讨论",
+                  "分享自己的故事"
+                ],
+                "questions": [
+                  "你最喜欢哪个运动会的瞬间？为什么？"
+                ],
+                "materials": [
+                  "运动会图片"
+                ]
+              },
+              {
+                "name": "创作准备",
+                "duration": "5分钟",
+                "goal": "准备绘画所需材料",
+                "activities": [
+                  "分发绘画纸和颜料",
+                  "讲解色彩混合技巧"
+                ],
+                "teacher": [
+                  "示范色彩混合技巧",
+                  "帮助学生分配材料"
+                ],
+                "students": [
+                  "领取材料",
+                  "观察示范"
+                ],
+                "questions": [
+                  "你想用哪些颜色表现你的故事？"
+                ],
+                "materials": [
+                  "绘画纸",
+                  "水彩颜料",
+                  "画笔"
+                ]
+              },
+              {
+                "name": "创意绘画",
+                "duration": "25分钟",
+                "goal": "通过绘画记录运动会的精彩瞬间",
+                "activities": [
+                  "自由绘画自己喜欢的运动会场景",
+                  "运用混合色彩表达情感"
+                ],
+                "teacher": [
+                  "巡回指导，提供反馈",
+                  "鼓励创新"
+                ],
+                "students": [
+                  "进行独立绘画",
+                  "尽情表达自己的创意"
+                ],
+                "questions": [
+                  "你如何用颜色表现运动员的情感？"
+                ],
+                "materials": [
+                  "绘画纸",
+                  "水彩颜料",
+                  "画笔"
+                ]
+              },
+              {
+                "name": "分享与反馈",
+                "duration": "5分钟",
+                "goal": "鼓励学生分享自己的作品与故事",
+                "activities": [
+                  "邀请几位学生展示自己的作品",
+                  "互相分享创作的灵感"
+                ],
+                "teacher": [
+                  "给予积极反馈",
+                  "引导学生进行评价"
+                ],
+                "students": [
+                  "展示自己作品",
+                  "听取同学的反馈"
+                ],
+                "questions": [
+                  "你是如何选择颜色和构图的？"
+                ]
+              }
+            ],
+            "questions": [
+              "如何通过绘画讲述一个故事？",
+              "色彩对你表达的情感有什么影响？"
+            ],
+            "differentiation": [
+              "对于基础薄弱的学生，提供模版和示范；对于优秀学生，鼓励尝试更多的色彩组合"
+            ],
+            "summary": [
+              "今天我们通过绘画记录了运动会的精彩瞬间，运用了色彩混合表达情感"
+            ],
+            "extensions": [
+              "请学生回家画出自己最喜欢的运动会场景，并写一段文字说明"
+            ]
+          },
+          "metadata": {
+            "metadata": {},
+            "subject": "美术",
+            "grade": "三年级",
+            "focus": [
+              "创意表达",
+              "色彩混合",
+              "故事讲述"
+            ],
+            "description": "围绕“记录运动会精彩瞬间”设计一次45分钟的课堂，包含互动和延伸。",
+            "rawPlan": "{\n  \"objectives\": [\"激发学生的创意表达能力\", \"掌握基本的色彩混合技巧\"],\n  \"materials\": [\"绘画纸\", \"水彩颜料\", \"画笔\", \"运动会图片\"],\n  \"stages\": [\n    {\n      \"name\": \"导入与讨论\",\n      \"duration\": \"10分钟\",\n      \"goal\": \"引导学生回忆运动会的精彩瞬间\",\n      \"activities\": [\"展示运动会精彩瞬间图片\", \"引导学生描述这些瞬间\"],\n      \"teacherActions\": [\"提问引导学生回忆\", \"分享自己的运动会经历\"],\n      \"studentActivities\": [\"参与讨论\", \"分享自己的故事\"],\n      \"keyQuestions\": [\"你最喜欢哪个运动会的瞬间？为什么？\"],\n      \"materials\": [\"运动会图片\"]\n    },\n    {\n      \"name\": \"创作准备\",\n      \"duration\": \"5分钟\",\n      \"goal\": \"准备绘画所需材料\",\n      \"activities\": [\"分发绘画纸和颜料\", \"讲解色彩混合技巧\"],\n      \"teacherActions\": [\"示范色彩混合技巧\", \"帮助学生分配材料\"],\n      \"studentActivities\": [\"领取材料\", \"观察示范\"],\n      \"keyQuestions\": [\"你想用哪些颜色表现你的故事？\"],\n      \"materials\": [\"绘画纸\", \"水彩颜料\", \"画笔\"]\n    },\n    {\n      \"name\": \"创意绘画\",\n      \"duration\": \"25分钟\",\n      \"goal\": \"通过绘画记录运动会的精彩瞬间\",\n      \"activities\": [\"自由绘画自己喜欢的运动会场景\", \"运用混合色彩表达情感\"],\n      \"teacherActions\": [\"巡回指导，提供反馈\", \"鼓励创新\"],\n      \"studentActivities\": [\"进行独立绘画\", \"尽情表达自己的创意\"],\n      \"keyQuestions\": [\"你如何用颜色表现运动员的情感？\"],\n      \"materials\": [\"绘画纸\", \"水彩颜料\", \"画笔\"]\n    },\n    {\n      \"name\": \"分享与反馈\",\n      \"duration\": \"5分钟\",\n      \"goal\": \"鼓励学生分享自己的作品与故事\",\n      \"activities\": [\"邀请几位学生展示自己的作品\", \"互相分享创作的灵感\"],\n      \"teacherActions\": [\"给予积极反馈\", \"引导学生进行评价\"],\n      \"studentActivities\": [\"展示自己作品\", \"听取同学的反馈\"],\n      \"keyQuestions\": [\"你是如何选择颜色和构图的？\"],\n      \"materials\": []\n    }\n  ],\n  \"questions\": [\"如何通过绘画讲述一个故事？\", \"色彩对你表达的情感有什么影响？\"],\n  \"differentiation\": [\"对于基础薄弱的学生，提供模版和示范；对于优秀学生，鼓励尝试更多的色彩组合\"],\n  \"summary\": [\"今天我们通过绘画记录了运动会的精彩瞬间，运用了色彩混合表达情感\"],\n  \"extensions\": [\"请学生回家画出自己最喜欢的运动会场景，并写一段文字说明\"]\n}",
+            "structuredPlan": {
+              "objectives": [
+                "激发学生的创意表达能力",
+                "掌握基本的色彩混合技巧"
+              ],
+              "materials": [
+                "绘画纸",
+                "水彩颜料",
+                "画笔",
+                "运动会图片"
+              ],
+              "stages": [
+                {
+                  "name": "导入与讨论",
+                  "duration": "10分钟",
+                  "goal": "引导学生回忆运动会的精彩瞬间",
+                  "activities": [
+                    "展示运动会精彩瞬间图片",
+                    "引导学生描述这些瞬间"
+                  ],
+                  "teacherActions": [
+                    "提问引导学生回忆",
+                    "分享自己的运动会经历"
+                  ],
+                  "studentActivities": [
+                    "参与讨论",
+                    "分享自己的故事"
+                  ],
+                  "keyQuestions": [
+                    "你最喜欢哪个运动会的瞬间？为什么？"
+                  ],
+                  "materials": [
+                    "运动会图片"
+                  ]
+                },
+                {
+                  "name": "创作准备",
+                  "duration": "5分钟",
+                  "goal": "准备绘画所需材料",
+                  "activities": [
+                    "分发绘画纸和颜料",
+                    "讲解色彩混合技巧"
+                  ],
+                  "teacherActions": [
+                    "示范色彩混合技巧",
+                    "帮助学生分配材料"
+                  ],
+                  "studentActivities": [
+                    "领取材料",
+                    "观察示范"
+                  ],
+                  "keyQuestions": [
+                    "你想用哪些颜色表现你的故事？"
+                  ],
+                  "materials": [
+                    "绘画纸",
+                    "水彩颜料",
+                    "画笔"
+                  ]
+                },
+                {
+                  "name": "创意绘画",
+                  "duration": "25分钟",
+                  "goal": "通过绘画记录运动会的精彩瞬间",
+                  "activities": [
+                    "自由绘画自己喜欢的运动会场景",
+                    "运用混合色彩表达情感"
+                  ],
+                  "teacherActions": [
+                    "巡回指导，提供反馈",
+                    "鼓励创新"
+                  ],
+                  "studentActivities": [
+                    "进行独立绘画",
+                    "尽情表达自己的创意"
+                  ],
+                  "keyQuestions": [
+                    "你如何用颜色表现运动员的情感？"
+                  ],
+                  "materials": [
+                    "绘画纸",
+                    "水彩颜料",
+                    "画笔"
+                  ]
+                },
+                {
+                  "name": "分享与反馈",
+                  "duration": "5分钟",
+                  "goal": "鼓励学生分享自己的作品与故事",
+                  "activities": [
+                    "邀请几位学生展示自己的作品",
+                    "互相分享创作的灵感"
+                  ],
+                  "teacherActions": [
+                    "给予积极反馈",
+                    "引导学生进行评价"
+                  ],
+                  "studentActivities": [
+                    "展示自己作品",
+                    "听取同学的反馈"
+                  ],
+                  "keyQuestions": [
+                    "你是如何选择颜色和构图的？"
+                  ],
+                  "materials": []
+                }
+              ],
+              "questions": [
+                "如何通过绘画讲述一个故事？",
+                "色彩对你表达的情感有什么影响？"
+              ],
+              "differentiation": [
+                "对于基础薄弱的学生，提供模版和示范；对于优秀学生，鼓励尝试更多的色彩组合"
+              ],
+              "summary": [
+                "今天我们通过绘画记录了运动会的精彩瞬间，运用了色彩混合表达情感"
+              ],
+              "extensions": [
+                "请学生回家画出自己最喜欢的运动会场景，并写一段文字说明"
+              ]
+            }
+          }
+        },
+        "completed": false
+      },
+      {
+        "kind": "background_image",
+        "label": "教学背景图",
+        "summary": "小光建议的课堂背景图已经准备好，可直接投影或打印使用。",
+        "payload": {
+          "preview": {
+            "type": "image",
+            "imageUrl": "https://dalleproduse.blob.core.windows.net/private/images/fbc0ce7c-242e-4d1d-82a8-ce6db8dcb370/generated_00.png?se=2025-10-22T10%3A20%3A50Z&sig=gGNoM4rz%2FswSsw5ABx7jcl0i4ATKZ4q2sWfC%2Fsn0ZiU%3D&ske=2025-10-24T01%3A35%3A26Z&skoid=09ba021e-c417-441c-b203-c81e5dcd7b7f&sks=b&skt=2025-10-17T01%3A35%3A26Z&sktid=33e01921-4d64-4f8c-a055-5bdaffd5e33d&skv=2020-10-02&sp=r&spr=https&sr=b&sv=2020-10-02",
+            "prompt": "Illustrate a warm classroom backdrop for an elementary art lesson.\nTheme focus: 记录运动会精彩瞬间.\nIncorporate details from the lesson plan: 目标：激发学生的创意表达能力，掌握基本的色彩混合技巧\n流程：导入与讨论（10分钟）、创作准备（5分钟）、创意绘画（25分钟）、分享与反馈（5分钟）\n今天我们通过绘画记录了运动会的精彩瞬间，运用了色彩混合表达情感.\nUse gentle lighting, handcrafted textures, encouraging atmosphere, and keep characters ambiguous so teachers can reuse the image.\n"
+          },
+          "metadata": {
+            "metadata": {},
+            "imageUrl": "https://dalleproduse.blob.core.windows.net/private/images/fbc0ce7c-242e-4d1d-82a8-ce6db8dcb370/generated_00.png?se=2025-10-22T10%3A20%3A50Z&sig=gGNoM4rz%2FswSsw5ABx7jcl0i4ATKZ4q2sWfC%2Fsn0ZiU%3D&ske=2025-10-24T01%3A35%3A26Z&skoid=09ba021e-c417-441c-b203-c81e5dcd7b7f&sks=b&skt=2025-10-17T01%3A35%3A26Z&sktid=33e01921-4d64-4f8c-a055-5bdaffd5e33d&skv=2020-10-02&sp=r&spr=https&sr=b&sv=2020-10-02",
+            "prompt": "Illustrate a warm classroom backdrop for an elementary art lesson.\nTheme focus: 记录运动会精彩瞬间.\nIncorporate details from the lesson plan: 目标：激发学生的创意表达能力，掌握基本的色彩混合技巧\n流程：导入与讨论（10分钟）、创作准备（5分钟）、创意绘画（25分钟）、分享与反馈（5分钟）\n今天我们通过绘画记录了运动会的精彩瞬间，运用了色彩混合表达情感.\nUse gentle lighting, handcrafted textures, encouraging atmosphere, and keep characters ambiguous so teachers can reuse the image.\n",
+            "raw": {
+              "created": 1761042040,
+              "data": [
+                {
+                  "content_filter_results": {
+                    "hate": {
+                      "filtered": false,
+                      "severity": "safe"
+                    },
+                    "self_harm": {
+                      "filtered": false,
+                      "severity": "safe"
+                    },
+                    "sexual": {
+                      "filtered": false,
+                      "severity": "safe"
+                    },
+                    "violence": {
+                      "filtered": false,
+                      "severity": "safe"
+                    }
+                  },
+                  "prompt_filter_results": {
+                    "hate": {
+                      "filtered": false,
+                      "severity": "safe"
+                    },
+                    "profanity": {
+                      "detected": false,
+                      "filtered": false
+                    },
+                    "self_harm": {
+                      "filtered": false,
+                      "severity": "safe"
+                    },
+                    "sexual": {
+                      "filtered": false,
+                      "severity": "safe"
+                    },
+                    "violence": {
+                      "filtered": false,
+                      "severity": "safe"
+                    }
+                  },
+                  "revised_prompt": "A warm and welcoming elementary school classroom designed for an art lesson, capturing the theme of illustrating '记录运动会精彩瞬间' or 'capturing the exciting moments of a sports day.' The classroom features gentle, golden lighting creating a cozy atmosphere, with handcrafted textures like wooden desks and shelves holding art supplies such as pencils, brushes, and colorful paints. Inspirational posters about creativity and expression adorn the walls alongside colorful artworks by previous students. A large whiteboard shows details from the lesson plan: objective of mastering creative expression and color mixing techniques, introduction and discussion, creation preparation, creative painting, and feedback sharing. The students are engaged in art creation, sketching exciting sports day moments while seated on cheerful, colorful chairs. The focus is on the collaborative and encouraging environment rather than specific identities of characters to enable reuse, with the scene feeling dynamic and inspiring.",
+                  "url": "https://dalleproduse.blob.core.windows.net/private/images/fbc0ce7c-242e-4d1d-82a8-ce6db8dcb370/generated_00.png?se=2025-10-22T10%3A20%3A50Z&sig=gGNoM4rz%2FswSsw5ABx7jcl0i4ATKZ4q2sWfC%2Fsn0ZiU%3D&ske=2025-10-24T01%3A35%3A26Z&skoid=09ba021e-c417-441c-b203-c81e5dcd7b7f&sks=b&skt=2025-10-17T01%3A35%3A26Z&sktid=33e01921-4d64-4f8c-a055-5bdaffd5e33d&skv=2020-10-02&sp=r&spr=https&sr=b&sv=2020-10-02"
+                }
+              ]
+            }
+          }
+        },
+        "completed": false
+      },
+      {
+        "kind": "video",
+        "label": "开场动画",
+        "summary": "在运动会的开场动画中，孩子们准备体验激动人心的精彩瞬间。通过互动的方式引导学生参与，共同记录这一难忘的时刻。\n小光生成了课堂开场动画，可直接播放或下载。",
+        "payload": {
+          "preview": {
+            "type": "storyboard",
+            "segments": [
+              {
+                "scene": "欢快的校园景象，孩子们在操场上奔跑，笑声不断。",
+                "narration": "同学们，准备好迎接我们期待已久的运动会了吗？今天，我们将记录下每一个精彩瞬间！",
+                "cameraHint": "镜头快速扫过操场，捕捉孩子们欢快的奔跑和活动。",
+                "musicCue": "轻快的背景音乐伴随孩子们的呼喊声。"
+              },
+              {
+                "scene": "画面切到准备阶段，孩子们在为比赛做热身。",
+                "narration": "在比赛开始前，我们先来热身！你们准备好了吗？跟我一起做一些简单的动作吧！"
+              }
+            ],
+            "ambient": "操场上的笑声和跳跃声交织在一起。",
+            "script": "同学们，准备好迎接我们期待已久的运动会了吗？今天，我们将记录下每一个精彩瞬间！\n在比赛开始前，我们先来热身！你们准备好了吗？跟我一起做一些简单的动作吧！",
+            "videoUrl": "https://filesystem.site/cdn/20251021/e9c8784b4b4f2dd42b83a8f0947f70.mp4",
+            "fileUrl": "https://filesystem.site/cdn/20251021/e9c8784b4b4f2dd42b83a8f0947f70.mp4"
+          },
+          "metadata": {
+            "metadata": {},
+            "summary": "在运动会的开场动画中，孩子们准备体验激动人心的精彩瞬间。通过互动的方式引导学生参与，共同记录这一难忘的时刻。",
+            "segments": [
+              {
+                "scene": "欢快的校园景象，孩子们在操场上奔跑，笑声不断。",
+                "narration": "同学们，准备好迎接我们期待已久的运动会了吗？今天，我们将记录下每一个精彩瞬间！",
+                "cameraHint": "镜头快速扫过操场，捕捉孩子们欢快的奔跑和活动。",
+                "musicCue": "轻快的背景音乐伴随孩子们的呼喊声。"
+              },
+              {
+                "scene": "画面切到准备阶段，孩子们在为比赛做热身。",
+                "narration": "在比赛开始前，我们先来热身！你们准备好了吗？跟我一起做一些简单的动作吧！"
+              }
+            ],
+            "ambientSound": "操场上的笑声和跳跃声交织在一起。",
+            "script": "同学们，准备好迎接我们期待已久的运动会了吗？今天，我们将记录下每一个精彩瞬间！\n在比赛开始前，我们先来热身！你们准备好了吗？跟我一起做一些简单的动作吧！",
+            "rawText": "{\n  \"summary\": \"在运动会的开场动画中，孩子们准备体验激动人心的精彩瞬间。通过互动的方式引导学生参与，共同记录这一难忘的时刻。\",\n  \"segments\": [\n    {\n      \"scene\": \"欢快的校园景象，孩子们在操场上奔跑，笑声不断。\",\n      \"narration\": \"同学们，准备好迎接我们期待已久的运动会了吗？今天，我们将记录下每一个精彩瞬间！\",\n      \"cameraHint\": \"镜头快速扫过操场，捕捉孩子们欢快的奔跑和活动。\",\n      \"musicCue\": \"轻快的背景音乐伴随孩子们的呼喊声。\"\n    },\n    {\n      \"scene\": \"画面切到准备阶段，孩子们在为比赛做热身。\",\n      \"narration\": \"在比赛开始前，我们先来热身！你们准备好了吗？跟我一起做一些简单的动作吧！\",\n      \"ambientSound\": \"孩子们的欢笑声和音乐混合在一起。\"\n    }\n  ],\n  \"ambientSound\": \"操场上的笑声和跳跃声交织在一起。\",\n  \"script\": \"同学们，准备好迎接我们期待已久的运动会了吗？今天，我们将记录下每一个精彩瞬间！\\n在比赛开始前，我们先来热身！你们准备好了吗？跟我一起做一些简单的动作吧！\"\n}",
+            "videoUrl": "https://filesystem.site/cdn/20251021/e9c8784b4b4f2dd42b83a8f0947f70.mp4"
+          }
+        },
+        "completed": false
+      },
+      {
+        "kind": "music",
+        "label": "背景音乐",
+        "summary": "轻柔伴奏或节奏练习音乐，配合课堂关键环节。",
+        "payload": {
+          "preview": {},
+          "metadata": {}
+        },
+        "completed": false
+      }
+    ],
+    "metadata": {
+      "sharedContentId": "99k2sy7b7d6pm18s",
+      "sharedContentUpdatedAt": "2025-10-21T18:28:05.729139",
+      "sharedContentOwnerId": "ctkm26bfp792zkov"
+    }
+  },
+  {
+    "id": "20uu6pz246s265hf",
+    "teacherId": "9r8jv4ahkdee92ik",
+    "classroomIds": [
+      "ck4gvavprkssb1ce"
+    ],
+    "title": "你喜欢什么泡面",
+    "theme": "你喜欢什么泡面",
+    "status": "public",
+    "createdAt": "2025-10-21T12:23:28.478346Z",
+    "steps": [
+      {
+        "kind": "lesson_plan",
+        "label": "教案设计",
+        "summary": "目标：培养创意表达能力，掌握色彩混合技巧\n流程：导入（10分钟）、色彩混合（15分钟）、创作与故事讲述（20分钟）\n回顾今天学习的色彩混合和创意表达",
+        "payload": {
+          "preview": {
+            "type": "lesson_plan",
+            "objectives": [
+              "培养创意表达能力",
+              "掌握色彩混合技巧"
+            ],
+            "materials": [
+              "绘画纸",
+              "水彩颜料",
+              "画笔",
+              "泡面包装图案"
+            ],
+            "stages": [
+              {
+                "name": "导入",
+                "duration": "10分钟",
+                "goal": "激发学生对泡面的兴趣",
+                "activities": [
+                  "讨论学生最喜欢的泡面种类",
+                  "分享泡面故事"
+                ],
+                "teacher": [
+                  "引导学生分享经验",
+                  "提出开放性问题"
+                ],
+                "students": [
+                  "参与讨论",
+                  "分享个人喜好"
+                ],
+                "questions": [
+                  "你最喜欢的泡面是什么？为什么？"
+                ]
+              },
+              {
+                "name": "色彩混合",
+                "duration": "15分钟",
+                "goal": "学习色彩混合技巧",
+                "activities": [
+                  "引导学生混合不同颜色",
+                  "尝试调出泡面的颜色"
+                ],
+                "teacher": [
+                  "示范色彩混合",
+                  "指导学生操作"
+                ],
+                "students": [
+                  "动手混合颜料",
+                  "观察结果"
+                ],
+                "questions": [
+                  "如果你的泡面是某种颜色，你会怎么调？"
+                ],
+                "materials": [
+                  "水彩颜料",
+                  "调色板"
+                ]
+              },
+              {
+                "name": "创作与故事讲述",
+                "duration": "20分钟",
+                "goal": "完成个人泡面创作并讲述故事",
+                "activities": [
+                  "学生绘制自己喜欢的泡面",
+                  "每个学生分享创作背后的故事"
+                ],
+                "teacher": [
+                  "提供反馈",
+                  "鼓励学生分享"
+                ],
+                "students": [
+                  "绘画创作",
+                  "口头表述个人故事"
+                ],
+                "questions": [
+                  "你的泡面有什么特别之处？"
+                ],
+                "materials": [
+                  "绘画纸",
+                  "画笔"
+                ]
+              }
+            ],
+            "questions": [
+              "你能再讲讲你的创作背后有什么故事吗？",
+              "如果要为泡面设计新口味，你会怎么做？"
+            ],
+            "differentiation": [
+              "为基础较弱的学生提供样本图，帮助参考",
+              "对进阶学生可增加色彩搭配挑战"
+            ],
+            "summary": [
+              "回顾今天学习的色彩混合和创意表达",
+              "展示各自的作品"
+            ],
+            "extensions": [
+              "在家创作一个新泡面的包装设计",
+              "绘制一个泡面相关的故事插图"
+            ]
+          },
+          "metadata": {
+            "metadata": {},
+            "subject": "美术",
+            "grade": "三年级",
+            "focus": [
+              "创意表达",
+              "色彩混合",
+              "故事讲述"
+            ],
+            "description": "围绕“你喜欢什么泡面”设计一次45分钟的课堂，包含互动和延伸。",
+            "rawPlan": "{\n  \"objectives\": [\"培养创意表达能力\", \"掌握色彩混合技巧\"],\n  \"materials\": [\"绘画纸\", \"水彩颜料\", \"画笔\", \"泡面包装图案\"],\n  \"stages\": [\n    {\n      \"name\": \"导入\",\n      \"duration\": \"10分钟\",\n      \"goal\": \"激发学生对泡面的兴趣\",\n      \"activities\": [\"讨论学生最喜欢的泡面种类\", \"分享泡面故事\"],\n      \"teacherActions\": [\"引导学生分享经验\", \"提出开放性问题\"],\n      \"studentActivities\": [\"参与讨论\", \"分享个人喜好\"],\n      \"keyQuestions\": [\"你最喜欢的泡面是什么？为什么？\"],\n      \"materials\": []\n    },\n    {\n      \"name\": \"色彩混合\",\n      \"duration\": \"15分钟\",\n      \"goal\": \"学习色彩混合技巧\",\n      \"activities\": [\"引导学生混合不同颜色\", \"尝试调出泡面的颜色\"],\n      \"teacherActions\": [\"示范色彩混合\", \"指导学生操作\"],\n      \"studentActivities\": [\"动手混合颜料\", \"观察结果\"],\n      \"keyQuestions\": [\"如果你的泡面是某种颜色，你会怎么调？\"],\n      \"materials\": [\"水彩颜料\", \"调色板\"]\n    },\n    {\n      \"name\": \"创作与故事讲述\",\n      \"duration\": \"20分钟\",\n      \"goal\": \"完成个人泡面创作并讲述故事\",\n      \"activities\": [\"学生绘制自己喜欢的泡面\", \"每个学生分享创作背后的故事\"],\n      \"teacherActions\": [\"提供反馈\", \"鼓励学生分享\"],\n      \"studentActivities\": [\"绘画创作\", \"口头表述个人故事\"],\n      \"keyQuestions\": [\"你的泡面有什么特别之处？\"],\n      \"materials\": [\"绘画纸\", \"画笔\"]\n    }\n  ],\n  \"questions\": [\"你能再讲讲你的创作背后有什么故事吗？\", \"如果要为泡面设计新口味，你会怎么做？\"],\n  \"differentiation\": [\"为基础较弱的学生提供样本图，帮助参考\", \"对进阶学生可增加色彩搭配挑战\"],\n  \"summary\": [\"回顾今天学习的色彩混合和创意表达\", \"展示各自的作品\"],\n  \"extensions\": [\"在家创作一个新泡面的包装设计\", \"绘制一个泡面相关的故事插图\"]\n}",
+            "structuredPlan": {
+              "objectives": [
+                "培养创意表达能力",
+                "掌握色彩混合技巧"
+              ],
+              "materials": [
+                "绘画纸",
+                "水彩颜料",
+                "画笔",
+                "泡面包装图案"
+              ],
+              "stages": [
+                {
+                  "name": "导入",
+                  "duration": "10分钟",
+                  "goal": "激发学生对泡面的兴趣",
+                  "activities": [
+                    "讨论学生最喜欢的泡面种类",
+                    "分享泡面故事"
+                  ],
+                  "teacherActions": [
+                    "引导学生分享经验",
+                    "提出开放性问题"
+                  ],
+                  "studentActivities": [
+                    "参与讨论",
+                    "分享个人喜好"
+                  ],
+                  "keyQuestions": [
+                    "你最喜欢的泡面是什么？为什么？"
+                  ],
+                  "materials": []
+                },
+                {
+                  "name": "色彩混合",
+                  "duration": "15分钟",
+                  "goal": "学习色彩混合技巧",
+                  "activities": [
+                    "引导学生混合不同颜色",
+                    "尝试调出泡面的颜色"
+                  ],
+                  "teacherActions": [
+                    "示范色彩混合",
+                    "指导学生操作"
+                  ],
+                  "studentActivities": [
+                    "动手混合颜料",
+                    "观察结果"
+                  ],
+                  "keyQuestions": [
+                    "如果你的泡面是某种颜色，你会怎么调？"
+                  ],
+                  "materials": [
+                    "水彩颜料",
+                    "调色板"
+                  ]
+                },
+                {
+                  "name": "创作与故事讲述",
+                  "duration": "20分钟",
+                  "goal": "完成个人泡面创作并讲述故事",
+                  "activities": [
+                    "学生绘制自己喜欢的泡面",
+                    "每个学生分享创作背后的故事"
+                  ],
+                  "teacherActions": [
+                    "提供反馈",
+                    "鼓励学生分享"
+                  ],
+                  "studentActivities": [
+                    "绘画创作",
+                    "口头表述个人故事"
+                  ],
+                  "keyQuestions": [
+                    "你的泡面有什么特别之处？"
+                  ],
+                  "materials": [
+                    "绘画纸",
+                    "画笔"
+                  ]
+                }
+              ],
+              "questions": [
+                "你能再讲讲你的创作背后有什么故事吗？",
+                "如果要为泡面设计新口味，你会怎么做？"
+              ],
+              "differentiation": [
+                "为基础较弱的学生提供样本图，帮助参考",
+                "对进阶学生可增加色彩搭配挑战"
+              ],
+              "summary": [
+                "回顾今天学习的色彩混合和创意表达",
+                "展示各自的作品"
+              ],
+              "extensions": [
+                "在家创作一个新泡面的包装设计",
+                "绘制一个泡面相关的故事插图"
+              ]
+            }
+          }
+        },
+        "completed": false
+      },
+      {
+        "kind": "background_image",
+        "label": "教学背景图",
+        "summary": "小光建议的课堂背景图已经准备好，可直接投影或打印使用。",
+        "payload": {
+          "preview": {
+            "type": "image",
+            "imageUrl": "https://dalleproduse.blob.core.windows.net/private/images/5652f1f6-0cb2-4aa2-a105-e105a5e5f459/generated_00.png?se=2025-10-22T12%3A24%3A00Z&sig=cJZXt7o9ycl1vNVSpi825f9j9YAxwoPhqN0TkwGoA34%3D&ske=2025-10-24T19%3A01%3A20Z&skoid=09ba021e-c417-441c-b203-c81e5dcd7b7f&sks=b&skt=2025-10-17T19%3A01%3A20Z&sktid=33e01921-4d64-4f8c-a055-5bdaffd5e33d&skv=2020-10-02&sp=r&spr=https&sr=b&sv=2020-10-02",
+            "prompt": "Illustrate a warm classroom backdrop for an elementary art lesson.\nTheme focus: 你喜欢什么泡面.\nIncorporate details from the lesson plan: 目标：培养创意表达能力，掌握色彩混合技巧\n流程：导入（10分钟）、色彩混合（15分钟）、创作与故事讲述（20分钟）\n回顾今天学习的色彩混合和创意表达.\nUse gentle lighting, handcrafted textures, encouraging atmosphere, and keep characters ambiguous so teachers can reuse the image.\n"
+          },
+          "metadata": {
+            "metadata": {},
+            "imageUrl": "https://dalleproduse.blob.core.windows.net/private/images/5652f1f6-0cb2-4aa2-a105-e105a5e5f459/generated_00.png?se=2025-10-22T12%3A24%3A00Z&sig=cJZXt7o9ycl1vNVSpi825f9j9YAxwoPhqN0TkwGoA34%3D&ske=2025-10-24T19%3A01%3A20Z&skoid=09ba021e-c417-441c-b203-c81e5dcd7b7f&sks=b&skt=2025-10-17T19%3A01%3A20Z&sktid=33e01921-4d64-4f8c-a055-5bdaffd5e33d&skv=2020-10-02&sp=r&spr=https&sr=b&sv=2020-10-02",
+            "prompt": "Illustrate a warm classroom backdrop for an elementary art lesson.\nTheme focus: 你喜欢什么泡面.\nIncorporate details from the lesson plan: 目标：培养创意表达能力，掌握色彩混合技巧\n流程：导入（10分钟）、色彩混合（15分钟）、创作与故事讲述（20分钟）\n回顾今天学习的色彩混合和创意表达.\nUse gentle lighting, handcrafted textures, encouraging atmosphere, and keep characters ambiguous so teachers can reuse the image.\n",
+            "raw": {
+              "created": 1761049430,
+              "data": [
+                {
+                  "content_filter_results": {
+                    "hate": {
+                      "filtered": false,
+                      "severity": "safe"
+                    },
+                    "self_harm": {
+                      "filtered": false,
+                      "severity": "safe"
+                    },
+                    "sexual": {
+                      "filtered": false,
+                      "severity": "safe"
+                    },
+                    "violence": {
+                      "filtered": false,
+                      "severity": "safe"
+                    }
+                  },
+                  "prompt_filter_results": {
+                    "hate": {
+                      "filtered": false,
+                      "severity": "safe"
+                    },
+                    "profanity": {
+                      "detected": false,
+                      "filtered": false
+                    },
+                    "self_harm": {
+                      "filtered": false,
+                      "severity": "safe"
+                    },
+                    "sexual": {
+                      "filtered": false,
+                      "severity": "safe"
+                    },
+                    "violence": {
+                      "filtered": false,
+                      "severity": "safe"
+                    }
+                  },
+                  "revised_prompt": "A warm elementary classroom designed for an art lesson. The scene features gentle lighting that creates a cozy and inviting atmosphere. The classroom has handcrafted textures such as wooden furniture, vibrant posters, and cheerful decorations scattered around the walls, displaying creative artworks of noodles inspired by the theme '你喜欢什么泡面.' On the background, art supplies such as color palettes, brushes, drawing papers, and paint jars are neatly arranged on shelves and tables. A whiteboard displays step-by-step instructions for the lesson plan, including the goals for color mixing techniques and creative expression. The students' artwork is visible on desks, showcasing colorful and imaginative noodle designs. The characters and students are left ambiguous, with just subtle body shapes in full clothing but without detailed features to ensure the teacher can reuse it for various purposes. The scene radiates an encouraging atmosphere with playfully bright colors.",
+                  "url": "https://dalleproduse.blob.core.windows.net/private/images/5652f1f6-0cb2-4aa2-a105-e105a5e5f459/generated_00.png?se=2025-10-22T12%3A24%3A00Z&sig=cJZXt7o9ycl1vNVSpi825f9j9YAxwoPhqN0TkwGoA34%3D&ske=2025-10-24T19%3A01%3A20Z&skoid=09ba021e-c417-441c-b203-c81e5dcd7b7f&sks=b&skt=2025-10-17T19%3A01%3A20Z&sktid=33e01921-4d64-4f8c-a055-5bdaffd5e33d&skv=2020-10-02&sp=r&spr=https&sr=b&sv=2020-10-02"
+                }
+              ]
+            }
+          }
+        },
+        "completed": false
+      },
+      {
+        "kind": "video",
+        "label": "开场动画",
+        "summary": "开场动画引入“你喜欢什么泡面”的主题，激发孩子们的兴趣并鼓励互动。\n小光生成了课堂开场动画，可直接播放或下载。",
+        "payload": {
+          "preview": {
+            "type": "storyboard",
+            "segments": [
+              {
+                "scene": "教室内部装饰色彩斑斓，墙上贴满了各种泡面包装的海报。",
+                "narration": "同学们，今天我们要讨论一个特别的主题——泡面！",
+                "cameraHint": "慢慢拉近到教室前面的泡面海报，特写不同类型的泡面。",
+                "musicCue": "活泼的背景音乐响起，增加氛围"
+              },
+              {
+                "scene": "老师在黑板上画出几种泡面的图案。",
+                "narration": "你们知道吗？每个人都有自己最喜欢的泡面！",
+                "cameraHint": "镜头移向孩子们的脸，捕捉他们的好奇表情。",
+                "musicCue": "背景音乐轻柔，便于叙述"
+              },
+              {
+                "scene": "孩子们开始纷纷举手，表现出想分享的兴奋。",
+                "narration": "那么，谁想先分享你最喜欢的泡面呢？",
+                "cameraHint": "快速切换镜头到举手的孩子们，展现兴奋的气氛。",
+                "musicCue": "背景音渐强，增强互动感"
+              }
+            ],
+            "ambient": "轻微的教室嘈杂声，偶尔的笑声和讨论声",
+            "script": "教室内部装饰色彩斑斓，墙上贴满了各种泡面包装的海报。\n\n同学们，今天我们要讨论一个特别的主题——泡面！\n\n你们知道吗？每个人都有自己最喜欢的泡面！\n\n那么，谁想先分享你最喜欢的泡面呢？",
+            "videoUrl": "https://filesystem.site/cdn/20251021/e289c611aef7695aaab5ce299e4fec.mp4",
+            "fileUrl": "https://filesystem.site/cdn/20251021/e289c611aef7695aaab5ce299e4fec.mp4"
+          },
+          "metadata": {
+            "metadata": {},
+            "summary": "开场动画引入“你喜欢什么泡面”的主题，激发孩子们的兴趣并鼓励互动。",
+            "segments": [
+              {
+                "scene": "教室内部装饰色彩斑斓，墙上贴满了各种泡面包装的海报。",
+                "narration": "同学们，今天我们要讨论一个特别的主题——泡面！",
+                "cameraHint": "慢慢拉近到教室前面的泡面海报，特写不同类型的泡面。",
+                "musicCue": "活泼的背景音乐响起，增加氛围"
+              },
+              {
+                "scene": "老师在黑板上画出几种泡面的图案。",
+                "narration": "你们知道吗？每个人都有自己最喜欢的泡面！",
+                "cameraHint": "镜头移向孩子们的脸，捕捉他们的好奇表情。",
+                "musicCue": "背景音乐轻柔，便于叙述"
+              },
+              {
+                "scene": "孩子们开始纷纷举手，表现出想分享的兴奋。",
+                "narration": "那么，谁想先分享你最喜欢的泡面呢？",
+                "cameraHint": "快速切换镜头到举手的孩子们，展现兴奋的气氛。",
+                "musicCue": "背景音渐强，增强互动感"
+              }
+            ],
+            "ambientSound": "轻微的教室嘈杂声，偶尔的笑声和讨论声",
+            "script": "教室内部装饰色彩斑斓，墙上贴满了各种泡面包装的海报。\n\n同学们，今天我们要讨论一个特别的主题——泡面！\n\n你们知道吗？每个人都有自己最喜欢的泡面！\n\n那么，谁想先分享你最喜欢的泡面呢？",
+            "rawText": "{\n  \"summary\": \"开场动画引入“你喜欢什么泡面”的主题，激发孩子们的兴趣并鼓励互动。\",\n  \"segments\": [\n    {\n      \"scene\": \"教室内部装饰色彩斑斓，墙上贴满了各种泡面包装的海报。\",\n      \"narration\": \"同学们，今天我们要讨论一个特别的主题——泡面！\",\n      \"cameraHint\": \"慢慢拉近到教室前面的泡面海报，特写不同类型的泡面。\",\n      \"musicCue\": \"活泼的背景音乐响起，增加氛围\"\n    },\n    {\n      \"scene\": \"老师在黑板上画出几种泡面的图案。\",\n      \"narration\": \"你们知道吗？每个人都有自己最喜欢的泡面！\",\n      \"cameraHint\": \"镜头移向孩子们的脸，捕捉他们的好奇表情。\",\n      \"musicCue\": \"背景音乐轻柔，便于叙述\"\n    },\n    {\n      \"scene\": \"孩子们开始纷纷举手，表现出想分享的兴奋。\",\n      \"narration\": \"那么，谁想先分享你最喜欢的泡面呢？\",\n      \"cameraHint\": \"快速切换镜头到举手的孩子们，展现兴奋的气氛。\",\n      \"musicCue\": \"背景音渐强，增强互动感\"\n    }\n  ],\n  \"ambientSound\": \"轻微的教室嘈杂声，偶尔的笑声和讨论声\",\n  \"script\": \"教室内部装饰色彩斑斓，墙上贴满了各种泡面包装的海报。\\n\\n同学们，今天我们要讨论一个特别的主题——泡面！\\n\\n你们知道吗？每个人都有自己最喜欢的泡面！\\n\\n那么，谁想先分享你最喜欢的泡面呢？\"\n}",
+            "videoUrl": "https://filesystem.site/cdn/20251021/e289c611aef7695aaab5ce299e4fec.mp4"
+          }
+        },
+        "completed": false
+      },
+      {
+        "kind": "music",
+        "label": "背景音乐",
+        "summary": "轻柔伴奏或节奏练习音乐，配合课堂关键环节。",
+        "payload": {
+          "preview": {},
+          "metadata": {}
+        },
+        "completed": false
+      }
+    ],
+    "metadata": {
+      "sharedContentId": "8unvp338ibfwghz1",
+      "sharedContentUpdatedAt": "2025-10-21T20:29:36.276985",
+      "sharedContentOwnerId": "9r8jv4ahkdee92ik"
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "zef1ugiy1kcfy733",
+    "code": "A7VF32",
+    "name": "maxiangxi的班级",
+    "teacherId": "wxrvtifc2ny4rysz",
+    "createdAt": "2025-10-16T06:37:56.186127Z",
+    "studentIds": [
+      "add9tdmt7vo8yux8"
+    ]
+  },
+  {
+    "id": "72l02wprwf34vovz",
+    "code": "RWCF4D",
+    "name": "maxiangxi1的班级",
+    "teacherId": "77r28mhzwvlyf1ov",
+    "createdAt": "2025-10-16T13:03:58.295378Z",
+    "studentIds": [
+      "ds9o1fguct9nkbno"
+    ]
+  },
+  {
+    "id": "6zmecnivbtaospep",
+    "code": "GHJY4K",
+    "name": "peko的班级",
+    "teacherId": "v6dwg0hyarqw66sx",
+    "createdAt": "2025-10-16T15:16:55.280957Z",
+    "studentIds": [
+      "avq9t4ti9gbkcjw2"
+    ]
+  },
+  {
+    "id": "6rnximlxebth1ds8",
+    "code": "UUR4CV",
+    "name": "tmxi01的班级",
+    "teacherId": "ctkm26bfp792zkov",
+    "createdAt": "2025-10-20T16:17:56.027477Z",
+    "studentIds": [
+      "2px8cpsdlvuzorib"
+    ]
+  }
+]

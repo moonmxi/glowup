@@ -1,0 +1,21 @@
+[
+  {
+    "id": "afjkyit71chwvpny",
+    "username": "123456",
+    "password": "123456",
+    "role": "teacher",
+    "createdAt": "2025-10-31T19:03:52.337383Z",
+    "managedClassroomIds": [
+      "ryyqj20g0c19btjr"
+    ]
+  },
+  {
+    "id": "cowx9hx4t0hyjuvs",
+    "username": "1234567",
+    "password": "1234567",
+    "role": "student",
+    "createdAt": "2025-10-31T19:16:55.126019Z",
+    "managedClassroomIds": [],
+    "joinedClassroomId": "ryyqj20g0c19btjr"
+  }
+]
