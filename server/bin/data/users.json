@@ -1,0 +1,88 @@
+[
+  {
+    "id": "wxrvtifc2ny4rysz",
+    "username": "maxiangxi",
+    "password": "maxiangxi",
+    "role": "teacher",
+    "createdAt": "2025-10-16T06:37:56.185446Z",
+    "managedClassroomIds": [
+      "zef1ugiy1kcfy733"
+    ]
+  },
+  {
+    "id": "add9tdmt7vo8yux8",
+    "username": "mamama",
+    "password": "mamama",
+    "role": "student",
+    "createdAt": "2025-10-16T06:41:38.273049Z",
+    "managedClassroomIds": [],
+    "joinedClassroomId": "zef1ugiy1kcfy733"
+  },
+  {
+    "id": "77r28mhzwvlyf1ov",
+    "username": "maxiangxi1",
+    "password": "maxiangxi1",
+    "role": "teacher",
+    "createdAt": "2025-10-16T13:03:58.294585Z",
+    "managedClassroomIds": [
+      "72l02wprwf34vovz"
+    ]
+  },
+  {
+    "id": "ds9o1fguct9nkbno",
+    "username": "mximxi",
+    "password": "mximxi",
+    "role": "student",
+    "createdAt": "2025-10-16T13:24:23.529315Z",
+    "managedClassroomIds": [],
+    "joinedClassroomId": "72l02wprwf34vovz"
+  },
+  {
+    "id": "v6dwg0hyarqw66sx",
+    "username": "peko",
+    "password": "123456",
+    "role": "teacher",
+    "createdAt": "2025-10-16T15:16:55.280273Z",
+    "managedClassroomIds": [
+      "6zmecnivbtaospep"
+    ]
+  },
+  {
+    "id": "avq9t4ti9gbkcjw2",
+    "username": "kuso",
+    "password": "123456",
+    "role": "student",
+    "createdAt": "2025-10-16T15:27:47.252186Z",
+    "managedClassroomIds": [],
+    "joinedClassroomId": "6zmecnivbtaospep"
+  },
+  {
+    "id": "ctkm26bfp792zkov",
+    "username": "tmxi01",
+    "password": "tmxi01",
+    "role": "teacher",
+    "createdAt": "2025-10-20T16:17:56.027125Z",
+    "managedClassroomIds": [
+      "6rnximlxebth1ds8"
+    ]
+  },
+  {
+    "id": "2px8cpsdlvuzorib",
+    "username": "smxi01",
+    "password": "smxi01",
+    "role": "student",
+    "createdAt": "2025-10-20T16:19:09.015465Z",
+    "managedClassroomIds": [],
+    "joinedClassroomId": "6rnximlxebth1ds8"
+  },
+  {
+    "id": "9r8jv4ahkdee92ik",
+    "username": "tmxi02",
+    "password": "tmxi02",
+    "role": "teacher",
+    "createdAt": "2025-10-21T12:23:05.542067Z",
+    "managedClassroomIds": [
+      "ck4gvavprkssb1ce"
+    ]
+  }
+]
