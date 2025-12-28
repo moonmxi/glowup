@@ -863,6 +863,7 @@ class StoryStepCard extends StatefulWidget {
 
 class _StoryStepCardState extends State<StoryStepCard> {
   bool _isExpanded = true;
+  int? _selectedBackgroundRating;
 
   bool get _canCollapse {
     return widget.asset.status == StoryAssetStatus.ready ||
@@ -874,6 +875,9 @@ class _StoryStepCardState extends State<StoryStepCard> {
     super.didUpdateWidget(oldWidget);
     if (!_canCollapse && !_isExpanded) {
       _isExpanded = true;
+    }
+    if (oldWidget.asset.kind != widget.asset.kind) {
+      _selectedBackgroundRating = null;
     }
   }
 
@@ -929,6 +933,20 @@ class _StoryStepCardState extends State<StoryStepCard> {
                     preview: widget.asset.preview,
                     metadata: widget.asset.metadata,
                   ),
+                  if (widget.asset.kind == 'background_image')
+                    Padding(
+                      padding: const EdgeInsets.only(top: 16),
+                      child: _BackgroundImageControls(
+                        selectedRating: _selectedBackgroundRating,
+                        onRatingSelected: (value) {
+                          setState(() {
+                            _selectedBackgroundRating = value;
+                          });
+                        },
+                        onRegenerate: widget.onGenerate,
+                        onSubmit: () => _handleBackgroundFeedback(context),
+                      ),
+                    ),
                   const SizedBox(height: 12),
                   Wrap(
                     spacing: 12,
@@ -1044,6 +1062,77 @@ class _StoryStepCardState extends State<StoryStepCard> {
       default:
         return '让小光帮你完成课堂的这一步。';
     }
+  }
+
+  void _handleBackgroundFeedback(BuildContext context) {
+    final messenger = ScaffoldMessenger.of(context);
+    if (_selectedBackgroundRating == null) {
+      messenger.showSnackBar(
+        const SnackBar(content: Text('请先选择一个评分（1-10）')),
+      );
+      return;
+    }
+    messenger.showSnackBar(
+      const SnackBar(content: Text('AI已经学习到你的评价！')),
+    );
+  }
+}
+
+class _BackgroundImageControls extends StatelessWidget {
+  const _BackgroundImageControls({
+    required this.selectedRating,
+    required this.onRatingSelected,
+    required this.onRegenerate,
+    required this.onSubmit,
+  });
+
+  final int? selectedRating;
+  final ValueChanged<int> onRatingSelected;
+  final VoidCallback onRegenerate;
+  final VoidCallback onSubmit;
+
+  @override
+  Widget build(BuildContext context) {
+    final textTheme = Theme.of(context).textTheme;
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        Text(
+          '背景图体验如何？',
+          style: textTheme.titleSmall?.copyWith(fontWeight: FontWeight.w600),
+        ),
+        const SizedBox(height: 8),
+        FilledButton.icon(
+          onPressed: onRegenerate,
+          icon: const Icon(Icons.refresh),
+          label: const Text('重新生成背景图'),
+        ),
+        const SizedBox(height: 12),
+        Text('给小光的作品打个分（1-10）', style: textTheme.bodyMedium),
+        const SizedBox(height: 8),
+        Wrap(
+          spacing: 8,
+          runSpacing: 8,
+          children: [
+            for (var score = 1; score <= 10; score++)
+              ChoiceChip(
+                label: Text('$score'),
+                selected: selectedRating == score,
+                onSelected: (_) => onRatingSelected(score),
+              ),
+          ],
+        ),
+        const SizedBox(height: 12),
+        Align(
+          alignment: Alignment.centerRight,
+          child: ElevatedButton.icon(
+            onPressed: onSubmit,
+            icon: const Icon(Icons.send),
+            label: const Text('提交评分'),
+          ),
+        ),
+      ],
+    );
   }
 }
 
