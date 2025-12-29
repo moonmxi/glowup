@@ -300,12 +300,537 @@
       {
         "kind": "background_image",
         "label": "教学背景图",
-        "summary": "生成可投影或打印的班级背景图，让孩子沉浸在主题故事里。",
+        "summary": "小光建议的课堂背景图已经准备好，可直接投影或打印使用。",
+        "payload": {
+          "preview": {
+            "type": "image",
+            "imageUrl": "https://dalleprodsec.blob.core.windows.net/private/images/64739011-55d0-4a7a-b944-07b4efb99c37/generated_00.png?se=2025-12-29T18%3A27%3A33Z&sig=XxfKHy9FiBPJL17Ys5kw5dZ0ZZfyN5j63x7ydr8GfUg%3D&ske=2025-12-29T17%3A44%3A56Z&skoid=e52d5ed7-0657-4f62-bc12-7e5dbb260a96&sks=b&skt=2025-12-22T17%3A44%3A56Z&sktid=33e01921-4d64-4f8c-a055-5bdaffd5e33d&skv=2020-10-02&sp=r&spr=https&sr=b&sv=2020-10-02",
+            "prompt": "Create a warmly lit elementary art classroom environment prepared for a thematic lesson.\nLesson theme: 缤纷课堂的创意故事.\nInfuse visual cues from the lesson plan: 缤纷课堂的创意故事 的课堂节奏，以故事开场、探索、共创结尾为框架。.\nShow handcrafted details such as student artwork walls, organized tables with art supplies, soft textiles, and natural wooden textures.\nLighting should be sunrise-warm with gentle shadows, highlighting a collaborative learning mood.\nUse cinematic framing with a welcoming focal point, medium-wide composition, and subtle depth of field.\nAvoid recognizable faces; characters should remain abstract silhouettes or implied presence to ensure reusability and student privacy.\nStyle tags: cozy classroom, tactile materials, storybook illustration, uplifting color palette.\n"
+          },
+          "metadata": {
+            "metadata": {},
+            "imageUrl": "https://dalleprodsec.blob.core.windows.net/private/images/64739011-55d0-4a7a-b944-07b4efb99c37/generated_00.png?se=2025-12-29T18%3A27%3A33Z&sig=XxfKHy9FiBPJL17Ys5kw5dZ0ZZfyN5j63x7ydr8GfUg%3D&ske=2025-12-29T17%3A44%3A56Z&skoid=e52d5ed7-0657-4f62-bc12-7e5dbb260a96&sks=b&skt=2025-12-22T17%3A44%3A56Z&sktid=33e01921-4d64-4f8c-a055-5bdaffd5e33d&skv=2020-10-02&sp=r&spr=https&sr=b&sv=2020-10-02",
+            "prompt": "Create a warmly lit elementary art classroom environment prepared for a thematic lesson.\nLesson theme: 缤纷课堂的创意故事.\nInfuse visual cues from the lesson plan: 缤纷课堂的创意故事 的课堂节奏，以故事开场、探索、共创结尾为框架。.\nShow handcrafted details such as student artwork walls, organized tables with art supplies, soft textiles, and natural wooden textures.\nLighting should be sunrise-warm with gentle shadows, highlighting a collaborative learning mood.\nUse cinematic framing with a welcoming focal point, medium-wide composition, and subtle depth of field.\nAvoid recognizable faces; characters should remain abstract silhouettes or implied presence to ensure reusability and student privacy.\nStyle tags: cozy classroom, tactile materials, storybook illustration, uplifting color palette.\n",
+            "raw": {
+              "created": 1766946443,
+              "data": [
+                {
+                  "content_filter_results": {
+                    "hate": {
+                      "filtered": false,
+                      "severity": "safe"
+                    },
+                    "self_harm": {
+                      "filtered": false,
+                      "severity": "safe"
+                    },
+                    "sexual": {
+                      "filtered": false,
+                      "severity": "safe"
+                    },
+                    "violence": {
+                      "filtered": false,
+                      "severity": "safe"
+                    }
+                  },
+                  "prompt_filter_results": {
+                    "hate": {
+                      "filtered": false,
+                      "severity": "safe"
+                    },
+                    "profanity": {
+                      "detected": false,
+                      "filtered": false
+                    },
+                    "self_harm": {
+                      "filtered": false,
+                      "severity": "safe"
+                    },
+                    "sexual": {
+                      "filtered": false,
+                      "severity": "safe"
+                    },
+                    "violence": {
+                      "filtered": false,
+                      "severity": "safe"
+                    }
+                  },
+                  "revised_prompt": "Create an elementary art classroom environment with a warmly lit atmosphere prepared for a thematic lesson, inspired by a collaborative framework. The classroom is arranged for interaction with organized art supplies on wooden tables featuring natural wooden textures and soft textiles. The walls display colorful student artwork. The lesson theme emphasizes creativity and storytelling, with areas reflecting exploration and collaborative creation. Lighting mimics sunrise warmth, creating a welcoming environment with gentle shadows falling across the room. Characters are only hinted at, depicted as abstract silhouettes. The composition uses cinematic framing with a medium-wide perspective and subtle depth of field, with a focal point that draws viewers into the inviting environment. The style should feature cozy classroom vibes, tactile materials, uplifting colors, and storybook illustration details.",
+                  "url": "https://dalleprodsec.blob.core.windows.net/private/images/64739011-55d0-4a7a-b944-07b4efb99c37/generated_00.png?se=2025-12-29T18%3A27%3A33Z&sig=XxfKHy9FiBPJL17Ys5kw5dZ0ZZfyN5j63x7ydr8GfUg%3D&ske=2025-12-29T17%3A44%3A56Z&skoid=e52d5ed7-0657-4f62-bc12-7e5dbb260a96&sks=b&skt=2025-12-22T17%3A44%3A56Z&sktid=33e01921-4d64-4f8c-a055-5bdaffd5e33d&skv=2020-10-02&sp=r&spr=https&sr=b&sv=2020-10-02"
+                }
+              ]
+            }
+          }
+        },
+        "completed": false
+      },
+      {
+        "kind": "video",
+        "label": "开场动画",
+        "summary": "30秒引导孩子进入主题的动画片段，营造情境。",
         "payload": {
           "preview": {},
           "metadata": {}
         },
         "completed": false
+      },
+      {
+        "kind": "music",
+        "label": "背景音乐",
+        "summary": "轻柔伴奏或节奏练习音乐，配合课堂关键环节。",
+        "payload": {
+          "preview": {},
+          "metadata": {}
+        },
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": "5bl4xy32623bmy7b",
+    "teacherId": "afjkyit71chwvpny",
+    "classroomIds": [
+      "ryyqj20g0c19btjr"
+    ],
+    "title": "春日色彩探险",
+    "theme": "缤纷课堂的创意故事",
+    "status": "draft",
+    "createdAt": "2025-12-28T18:38:26.578060Z",
+    "steps": [
+      {
+        "kind": "lesson_plan",
+        "label": "教案设计",
+        "summary": "目标：培养学生的创意表达能力，提高学生的色彩混合技巧\n流程：引入与故事分享（10分钟）、色彩混合练习（15分钟）、创作个人故事画（15分钟）、展示与反馈（5分钟）\n学生分享与讨论自己的故事画，巩固色彩混合知识",
+        "payload": {
+          "preview": {
+            "type": "lesson_plan",
+            "objectives": [
+              "培养学生的创意表达能力",
+              "提高学生的色彩混合技巧"
+            ],
+            "materials": [
+              "水彩纸",
+              "水彩笔",
+              "调色板",
+              "故事卡片",
+              "画笔"
+            ],
+            "stages": [
+              {
+                "name": "引入与故事分享",
+                "duration": "10分钟",
+                "goal": "激发学生的想象力与创意表达",
+                "activities": [
+                  "教师分享一个关于色彩与创意的小故事",
+                  "学生围绕故事讨论自己的想法"
+                ],
+                "teacher": [
+                  "提问引导学生分享想象中的故事情节",
+                  "鼓励学生积极参与讨论"
+                ],
+                "students": [
+                  "倾听故事",
+                  "在小组中分享自己的创意构想"
+                ],
+                "questions": [
+                  "你们想象中的故事是怎样的？",
+                  "如果你是故事里的角色，你会怎样做？"
+                ],
+                "materials": [
+                  "故事卡片"
+                ]
+              },
+              {
+                "name": "色彩混合练习",
+                "duration": "15分钟",
+                "goal": "掌握基本的色彩混合技巧",
+                "activities": [
+                  "展示如何混合颜色",
+                  "让学生尝试调配不同颜色并分享结果"
+                ],
+                "teacher": [
+                  "提供示范",
+                  "指导如何选择颜色进行混合"
+                ],
+                "students": [
+                  "按教师示范进行颜色调配",
+                  "展示自己的调色结果"
+                ],
+                "questions": [
+                  "你们的颜色是什么样的？",
+                  "有没有新发现的颜色？"
+                ],
+                "materials": [
+                  "调色板",
+                  "水彩笔"
+                ]
+              },
+              {
+                "name": "创作个人故事画",
+                "duration": "15分钟",
+                "goal": "通过绘画表达自己的创意故事",
+                "activities": [
+                  "学生根据之前的故事构思自己的创意画"
+                ],
+                "teacher": [
+                  "巡视教室，给予实时反馈和指导"
+                ],
+                "students": [
+                  "集中精力创作自己的故事画",
+                  "分享自己的作品"
+                ],
+                "questions": [
+                  "你的画讲述了什么故事？",
+                  "选择这种颜色的原因是什么？"
+                ],
+                "materials": [
+                  "水彩纸",
+                  "画笔"
+                ]
+              },
+              {
+                "name": "展示与反馈",
+                "duration": "5分钟",
+                "goal": "增强学生的自信与沟通能力",
+                "activities": [
+                  "学生展示自己的作品并讲述故事"
+                ],
+                "teacher": [
+                  "鼓励其他同学积极反馈",
+                  "给予适当肯定"
+                ],
+                "students": [
+                  "展示自己的作品",
+                  "听取同学的反馈"
+                ],
+                "questions": [
+                  "你最喜欢哪个同学的故事？为什么？"
+                ]
+              }
+            ],
+            "questions": [
+              "如何将自己的想法更好地表达出来？",
+              "怎样的颜色能够更好地表现你的感受？"
+            ],
+            "differentiation": [
+              "为快速学生提供更多的色彩搭配挑战",
+              "为需要帮助的学生提供调色板的示范与指导"
+            ],
+            "summary": [
+              "学生分享与讨论自己的故事画，巩固色彩混合知识"
+            ],
+            "extensions": [
+              "鼓励学生回家讲述自己的故事给家人",
+              "让学生尝试用不同的材料（如蜡笔、彩铅）创作不同风格的故事画"
+            ]
+          },
+          "metadata": {
+            "metadata": {},
+            "subject": "美术",
+            "grade": "三年级",
+            "focus": [
+              "创意表达",
+              "色彩混合",
+              "故事讲述"
+            ],
+            "description": "围绕“缤纷课堂的创意故事”设计一次45分钟的课堂，包含互动和延伸。",
+            "rawPlan": "{\n  \"objectives\": [\"培养学生的创意表达能力\", \"提高学生的色彩混合技巧\"],\n  \"materials\": [\"水彩纸\", \"水彩笔\", \"调色板\", \"故事卡片\", \"画笔\"],\n  \"stages\": [\n    {\n      \"name\": \"引入与故事分享\",\n      \"duration\": \"10分钟\",\n      \"goal\": \"激发学生的想象力与创意表达\",\n      \"activities\": [\"教师分享一个关于色彩与创意的小故事\", \"学生围绕故事讨论自己的想法\"],\n      \"teacherActions\": [\"提问引导学生分享想象中的故事情节\", \"鼓励学生积极参与讨论\"],\n      \"studentActivities\": [\"倾听故事\", \"在小组中分享自己的创意构想\"],\n      \"keyQuestions\": [\"你们想象中的故事是怎样的？\", \"如果你是故事里的角色，你会怎样做？\"],\n      \"materials\": [\"故事卡片\"]\n    },\n    {\n      \"name\": \"色彩混合练习\",\n      \"duration\": \"15分钟\",\n      \"goal\": \"掌握基本的色彩混合技巧\",\n      \"activities\": [\"展示如何混合颜色\", \"让学生尝试调配不同颜色并分享结果\"],\n      \"teacherActions\": [\"提供示范\", \"指导如何选择颜色进行混合\"],\n      \"studentActivities\": [\"按教师示范进行颜色调配\", \"展示自己的调色结果\"],\n      \"keyQuestions\": [\"你们的颜色是什么样的？\", \"有没有新发现的颜色？\"],\n      \"materials\": [\"调色板\", \"水彩笔\"]\n    },\n    {\n      \"name\": \"创作个人故事画\",\n      \"duration\": \"15分钟\",\n      \"goal\": \"通过绘画表达自己的创意故事\",\n      \"activities\": [\"学生根据之前的故事构思自己的创意画\"],\n      \"teacherActions\": [\"巡视教室，给予实时反馈和指导\"],\n      \"studentActivities\": [\"集中精力创作自己的故事画\", \"分享自己的作品\"],\n      \"keyQuestions\": [\"你的画讲述了什么故事？\", \"选择这种颜色的原因是什么？\"],\n      \"materials\": [\"水彩纸\", \"画笔\"]\n    },\n    {\n      \"name\": \"展示与反馈\",\n      \"duration\": \"5分钟\",\n      \"goal\": \"增强学生的自信与沟通能力\",\n      \"activities\": [\"学生展示自己的作品并讲述故事\"],\n      \"teacherActions\": [\"鼓励其他同学积极反馈\", \"给予适当肯定\"],\n      \"studentActivities\": [\"展示自己的作品\", \"听取同学的反馈\"],\n      \"keyQuestions\": [\"你最喜欢哪个同学的故事？为什么？\"],\n      \"materials\": []\n    }\n  ],\n  \"questions\": [\"如何将自己的想法更好地表达出来？\", \"怎样的颜色能够更好地表现你的感受？\"],\n  \"differentiation\": [\"为快速学生提供更多的色彩搭配挑战\", \"为需要帮助的学生提供调色板的示范与指导\"],\n  \"summary\": [\"学生分享与讨论自己的故事画，巩固色彩混合知识\"],\n  \"extensions\": [\"鼓励学生回家讲述自己的故事给家人\", \"让学生尝试用不同的材料（如蜡笔、彩铅）创作不同风格的故事画\"]\n}",
+            "structuredPlan": {
+              "objectives": [
+                "培养学生的创意表达能力",
+                "提高学生的色彩混合技巧"
+              ],
+              "materials": [
+                "水彩纸",
+                "水彩笔",
+                "调色板",
+                "故事卡片",
+                "画笔"
+              ],
+              "stages": [
+                {
+                  "name": "引入与故事分享",
+                  "duration": "10分钟",
+                  "goal": "激发学生的想象力与创意表达",
+                  "activities": [
+                    "教师分享一个关于色彩与创意的小故事",
+                    "学生围绕故事讨论自己的想法"
+                  ],
+                  "teacherActions": [
+                    "提问引导学生分享想象中的故事情节",
+                    "鼓励学生积极参与讨论"
+                  ],
+                  "studentActivities": [
+                    "倾听故事",
+                    "在小组中分享自己的创意构想"
+                  ],
+                  "keyQuestions": [
+                    "你们想象中的故事是怎样的？",
+                    "如果你是故事里的角色，你会怎样做？"
+                  ],
+                  "materials": [
+                    "故事卡片"
+                  ]
+                },
+                {
+                  "name": "色彩混合练习",
+                  "duration": "15分钟",
+                  "goal": "掌握基本的色彩混合技巧",
+                  "activities": [
+                    "展示如何混合颜色",
+                    "让学生尝试调配不同颜色并分享结果"
+                  ],
+                  "teacherActions": [
+                    "提供示范",
+                    "指导如何选择颜色进行混合"
+                  ],
+                  "studentActivities": [
+                    "按教师示范进行颜色调配",
+                    "展示自己的调色结果"
+                  ],
+                  "keyQuestions": [
+                    "你们的颜色是什么样的？",
+                    "有没有新发现的颜色？"
+                  ],
+                  "materials": [
+                    "调色板",
+                    "水彩笔"
+                  ]
+                },
+                {
+                  "name": "创作个人故事画",
+                  "duration": "15分钟",
+                  "goal": "通过绘画表达自己的创意故事",
+                  "activities": [
+                    "学生根据之前的故事构思自己的创意画"
+                  ],
+                  "teacherActions": [
+                    "巡视教室，给予实时反馈和指导"
+                  ],
+                  "studentActivities": [
+                    "集中精力创作自己的故事画",
+                    "分享自己的作品"
+                  ],
+                  "keyQuestions": [
+                    "你的画讲述了什么故事？",
+                    "选择这种颜色的原因是什么？"
+                  ],
+                  "materials": [
+                    "水彩纸",
+                    "画笔"
+                  ]
+                },
+                {
+                  "name": "展示与反馈",
+                  "duration": "5分钟",
+                  "goal": "增强学生的自信与沟通能力",
+                  "activities": [
+                    "学生展示自己的作品并讲述故事"
+                  ],
+                  "teacherActions": [
+                    "鼓励其他同学积极反馈",
+                    "给予适当肯定"
+                  ],
+                  "studentActivities": [
+                    "展示自己的作品",
+                    "听取同学的反馈"
+                  ],
+                  "keyQuestions": [
+                    "你最喜欢哪个同学的故事？为什么？"
+                  ],
+                  "materials": []
+                }
+              ],
+              "questions": [
+                "如何将自己的想法更好地表达出来？",
+                "怎样的颜色能够更好地表现你的感受？"
+              ],
+              "differentiation": [
+                "为快速学生提供更多的色彩搭配挑战",
+                "为需要帮助的学生提供调色板的示范与指导"
+              ],
+              "summary": [
+                "学生分享与讨论自己的故事画，巩固色彩混合知识"
+              ],
+              "extensions": [
+                "鼓励学生回家讲述自己的故事给家人",
+                "让学生尝试用不同的材料（如蜡笔、彩铅）创作不同风格的故事画"
+              ]
+            }
+          }
+        },
+        "completed": false
+      },
+      {
+        "kind": "background_image",
+        "label": "教学背景图",
+        "summary": "小光建议的课堂背景图已经准备好，可直接投影或打印使用。",
+        "payload": {
+          "preview": {
+            "type": "image",
+            "imageUrl": "https://dalleproduse.blob.core.windows.net/private/images/bf146830-94d5-4f23-a4a2-d56ab3d12579/generated_00.png?se=2025-12-29T19%3A41%3A36Z&sig=ftGkRjZxjupbgkb72Yx6V1KpFYzwOkOuOYB9C7Kur%2B0%3D&ske=2026-01-03T21%3A40%3A19Z&skoid=09ba021e-c417-441c-b203-c81e5dcd7b7f&sks=b&skt=2025-12-27T21%3A40%3A19Z&sktid=33e01921-4d64-4f8c-a055-5bdaffd5e33d&skv=2020-10-02&sp=r&spr=https&sr=b&sv=2020-10-02",
+            "prompt": "Create a warmly lit elementary art classroom environment prepared for a thematic lesson.\nLesson theme: 缤纷课堂的创意故事.\nInfuse visual cues from the lesson plan: 缤纷课堂的创意故事 的课堂节奏，以故事开场、探索、共创结尾为框架。.\nShow handcrafted details such as student artwork walls, organized tables with art supplies, soft textiles, and natural wooden textures.\nLighting should be sunrise-warm with gentle shadows, highlighting a collaborative learning mood.\nUse cinematic framing with a welcoming focal point, medium-wide composition, and subtle depth of field.\nAvoid recognizable faces; characters should remain abstract silhouettes or implied presence to ensure reusability and student privacy.\nStyle tags: cozy classroom, tactile materials, storybook illustration, uplifting color palette.\n"
+          },
+          "metadata": {
+            "metadata": {
+              "metadata": {
+                "metadata": {},
+                "imageUrl": "https://dalleproduse.blob.core.windows.net/private/images/ba1bfe64-83ca-46a9-834b-812cdca999c0/generated_00.png?se=2025-12-29T18%3A44%3A19Z&sig=i%2FrDojRVx4ufmv09m7ZNjer7TNNTfRxAnlNsPfIxePI%3D&ske=2026-01-02T08%3A43%3A53Z&skoid=09ba021e-c417-441c-b203-c81e5dcd7b7f&sks=b&skt=2025-12-26T08%3A43%3A53Z&sktid=33e01921-4d64-4f8c-a055-5bdaffd5e33d&skv=2020-10-02&sp=r&spr=https&sr=b&sv=2020-10-02",
+                "prompt": "Create a warmly lit elementary art classroom environment prepared for a thematic lesson.\nLesson theme: 缤纷课堂的创意故事.\nInfuse visual cues from the lesson plan: 缤纷课堂的创意故事 的课堂节奏，以故事开场、探索、共创结尾为框架。.\nShow handcrafted details such as student artwork walls, organized tables with art supplies, soft textiles, and natural wooden textures.\nLighting should be sunrise-warm with gentle shadows, highlighting a collaborative learning mood.\nUse cinematic framing with a welcoming focal point, medium-wide composition, and subtle depth of field.\nAvoid recognizable faces; characters should remain abstract silhouettes or implied presence to ensure reusability and student privacy.\nStyle tags: cozy classroom, tactile materials, storybook illustration, uplifting color palette.\n",
+                "raw": {
+                  "created": 1766947444,
+                  "data": [
+                    {
+                      "content_filter_results": {
+                        "hate": {
+                          "filtered": false,
+                          "severity": "safe"
+                        },
+                        "self_harm": {
+                          "filtered": false,
+                          "severity": "safe"
+                        },
+                        "sexual": {
+                          "filtered": false,
+                          "severity": "safe"
+                        },
+                        "violence": {
+                          "filtered": false,
+                          "severity": "safe"
+                        }
+                      },
+                      "prompt_filter_results": {
+                        "hate": {
+                          "filtered": false,
+                          "severity": "safe"
+                        },
+                        "profanity": {
+                          "detected": false,
+                          "filtered": false
+                        },
+                        "self_harm": {
+                          "filtered": false,
+                          "severity": "safe"
+                        },
+                        "sexual": {
+                          "filtered": false,
+                          "severity": "safe"
+                        },
+                        "violence": {
+                          "filtered": false,
+                          "severity": "safe"
+                        }
+                      },
+                      "revised_prompt": "A warmly lit elementary art classroom environment prepared for a thematic lesson called 'A Creative Story in a Colorful Classroom.' The setting includes soft sunrise-warm lighting with gentle shadows, creating a collaborative and inviting atmosphere. The room features walls adorned with colorful student artwork, showing creativity and variety. Tables are neatly organized with vibrant art supplies such as paints, brushes, and crayons, creating an inspiring scene. Soft textiles like curtains and cushions add coziness, and the furniture is made from natural wooden textures. There are abstract silhouettes of students implied through their presence, avoiding recognizable faces. The composition is medium-wide with cinematic framing, focusing on the welcoming and uplifting mood of the classroom. The depth of field is subtle, enhancing the cozy and tactile qualities of the environment. The overall scene reflects an uplifting color palette reminiscent of a storybook illustration.",
+                      "url": "https://dalleproduse.blob.core.windows.net/private/images/ba1bfe64-83ca-46a9-834b-812cdca999c0/generated_00.png?se=2025-12-29T18%3A44%3A19Z&sig=i%2FrDojRVx4ufmv09m7ZNjer7TNNTfRxAnlNsPfIxePI%3D&ske=2026-01-02T08%3A43%3A53Z&skoid=09ba021e-c417-441c-b203-c81e5dcd7b7f&sks=b&skt=2025-12-26T08%3A43%3A53Z&sktid=33e01921-4d64-4f8c-a055-5bdaffd5e33d&skv=2020-10-02&sp=r&spr=https&sr=b&sv=2020-10-02"
+                    }
+                  ]
+                }
+              },
+              "imageUrl": "https://dalleproduse.blob.core.windows.net/private/images/9db137e2-aa9b-4ab0-b6b2-4e4c6cd5b0d1/generated_00.png?se=2025-12-29T19%3A07%3A25Z&sig=M4lJ0qiST%2FAueMHuK90X8LhOroXNJb9r2aqWK5R4S80%3D&ske=2026-01-03T21%3A40%3A19Z&skoid=09ba021e-c417-441c-b203-c81e5dcd7b7f&sks=b&skt=2025-12-27T21%3A40%3A19Z&sktid=33e01921-4d64-4f8c-a055-5bdaffd5e33d&skv=2020-10-02&sp=r&spr=https&sr=b&sv=2020-10-02",
+              "prompt": "Create a warmly lit elementary art classroom environment prepared for a thematic lesson.\nLesson theme: 缤纷课堂的创意故事.\nInfuse visual cues from the lesson plan: 缤纷课堂的创意故事 的课堂节奏，以故事开场、探索、共创结尾为框架。.\nShow handcrafted details such as student artwork walls, organized tables with art supplies, soft textiles, and natural wooden textures.\nLighting should be sunrise-warm with gentle shadows, highlighting a collaborative learning mood.\nUse cinematic framing with a welcoming focal point, medium-wide composition, and subtle depth of field.\nAvoid recognizable faces; characters should remain abstract silhouettes or implied presence to ensure reusability and student privacy.\nStyle tags: cozy classroom, tactile materials, storybook illustration, uplifting color palette.\n",
+              "raw": {
+                "created": 1766948835,
+                "data": [
+                  {
+                    "content_filter_results": {
+                      "hate": {
+                        "filtered": false,
+                        "severity": "safe"
+                      },
+                      "self_harm": {
+                        "filtered": false,
+                        "severity": "safe"
+                      },
+                      "sexual": {
+                        "filtered": false,
+                        "severity": "safe"
+                      },
+                      "violence": {
+                        "filtered": false,
+                        "severity": "safe"
+                      }
+                    },
+                    "prompt_filter_results": {
+                      "hate": {
+                        "filtered": false,
+                        "severity": "safe"
+                      },
+                      "profanity": {
+                        "detected": false,
+                        "filtered": false
+                      },
+                      "self_harm": {
+                        "filtered": false,
+                        "severity": "safe"
+                      },
+                      "sexual": {
+                        "filtered": false,
+                        "severity": "safe"
+                      },
+                      "violence": {
+                        "filtered": false,
+                        "severity": "safe"
+                      }
+                    },
+                    "revised_prompt": "Warmly lit elementary art classroom environment prepared for a thematic lesson \"Colorful Classroom of Creative Stories\" (translated from 缤纷课堂的创意故事). The classroom includes organized tables with vibrant art supplies such as paints, brushes, crayons, and scissors. Walls decorated with colorful handcrafted student artwork of animals, nature, and abstract themes. Natural wooden furniture exudes a cozy and warm atmosphere. Soft textiles like rugs and cotton curtains complement the room, adding texture. Storytelling and collaboration are reflected with a central circular table for group projects, surrounded by smaller workstations. The light is sunrise-warm, casting gentle shadows across the room and creating an inviting, collaborative learning mood. No recognizable people, with only abstract silhouettes implied in friendly action. The scene is shot with cinematic framing, warm uplifting colors, and a medium-wide composition with subtle depth of field to focus on the detailed, inspiring environment. The overall aesthetic is similar to a comforting storybook illustration, with tactile materials and a vibrant decorative color palette.",
+                    "url": "https://dalleproduse.blob.core.windows.net/private/images/9db137e2-aa9b-4ab0-b6b2-4e4c6cd5b0d1/generated_00.png?se=2025-12-29T19%3A07%3A25Z&sig=M4lJ0qiST%2FAueMHuK90X8LhOroXNJb9r2aqWK5R4S80%3D&ske=2026-01-03T21%3A40%3A19Z&skoid=09ba021e-c417-441c-b203-c81e5dcd7b7f&sks=b&skt=2025-12-27T21%3A40%3A19Z&sktid=33e01921-4d64-4f8c-a055-5bdaffd5e33d&skv=2020-10-02&sp=r&spr=https&sr=b&sv=2020-10-02"
+                  }
+                ]
+              }
+            },
+            "imageUrl": "https://dalleproduse.blob.core.windows.net/private/images/bf146830-94d5-4f23-a4a2-d56ab3d12579/generated_00.png?se=2025-12-29T19%3A41%3A36Z&sig=ftGkRjZxjupbgkb72Yx6V1KpFYzwOkOuOYB9C7Kur%2B0%3D&ske=2026-01-03T21%3A40%3A19Z&skoid=09ba021e-c417-441c-b203-c81e5dcd7b7f&sks=b&skt=2025-12-27T21%3A40%3A19Z&sktid=33e01921-4d64-4f8c-a055-5bdaffd5e33d&skv=2020-10-02&sp=r&spr=https&sr=b&sv=2020-10-02",
+            "prompt": "Create a warmly lit elementary art classroom environment prepared for a thematic lesson.\nLesson theme: 缤纷课堂的创意故事.\nInfuse visual cues from the lesson plan: 缤纷课堂的创意故事 的课堂节奏，以故事开场、探索、共创结尾为框架。.\nShow handcrafted details such as student artwork walls, organized tables with art supplies, soft textiles, and natural wooden textures.\nLighting should be sunrise-warm with gentle shadows, highlighting a collaborative learning mood.\nUse cinematic framing with a welcoming focal point, medium-wide composition, and subtle depth of field.\nAvoid recognizable faces; characters should remain abstract silhouettes or implied presence to ensure reusability and student privacy.\nStyle tags: cozy classroom, tactile materials, storybook illustration, uplifting color palette.\n",
+            "raw": {
+              "created": 1766950881,
+              "data": [
+                {
+                  "content_filter_results": {
+                    "hate": {
+                      "filtered": false,
+                      "severity": "safe"
+                    },
+                    "self_harm": {
+                      "filtered": false,
+                      "severity": "safe"
+                    },
+                    "sexual": {
+                      "filtered": false,
+                      "severity": "safe"
+                    },
+                    "violence": {
+                      "filtered": false,
+                      "severity": "safe"
+                    }
+                  },
+                  "prompt_filter_results": {
+                    "hate": {
+                      "filtered": false,
+                      "severity": "safe"
+                    },
+                    "self_harm": {
+                      "filtered": false,
+                      "severity": "safe"
+                    },
+                    "sexual": {
+                      "filtered": false,
+                      "severity": "safe"
+                    },
+                    "violence": {
+                      "filtered": false,
+                      "severity": "safe"
+                    }
+                  },
+                  "revised_prompt": "Create a warmly lit elementary art classroom environment prepared for a thematic lesson titled 'Vibrant Stories of the Classroom' (缤纷课堂的创意故事). The room is infused with visual cues related to the lesson plan, featuring an engaging rhythm of storytelling, exploration, and collaborative creation. The classroom has an inviting ambiance with wooden textures used on furniture, walls, and shelves. The walls are lined with vibrant handcrafted student artwork. Tables are organized neatly with art supplies like colorful paper, brushes, paints, and markers. Soft textiles, such as warm rugs and cozy cushions, are spread around the room to add an uplifting and tactile touch. The lighting is sunrise-warm with natural sunlight streaming through large windows, creating gentle shadows that enhance the collaborative learning atmosphere. The scene uses cinematic framing with a medium-wide composition and subtle depth of field, drawing attention to the details while maintaining privacy by showing only abstract silhouettes or implied presence of characters. The style embodies a storybook illustration, a cozy classroom feeling, and an uplifting color palette.",
+                  "url": "https://dalleproduse.blob.core.windows.net/private/images/bf146830-94d5-4f23-a4a2-d56ab3d12579/generated_00.png?se=2025-12-29T19%3A41%3A36Z&sig=ftGkRjZxjupbgkb72Yx6V1KpFYzwOkOuOYB9C7Kur%2B0%3D&ske=2026-01-03T21%3A40%3A19Z&skoid=09ba021e-c417-441c-b203-c81e5dcd7b7f&sks=b&skt=2025-12-27T21%3A40%3A19Z&sktid=33e01921-4d64-4f8c-a055-5bdaffd5e33d&skv=2020-10-02&sp=r&spr=https&sr=b&sv=2020-10-02"
+                }
+              ]
+            },
+            "contentId": "516r4oi1pbmhtcw1",
+            "uploadedAt": "2025-12-29T03:43:18.445"
+          }
+        },
+        "completed": true
       },
       {
         "kind": "video",

@@ -1,4 +1,5 @@
 import 'dart:async';
+import 'dart:math' as math;
 
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:file_picker/file_picker.dart';
@@ -863,6 +864,12 @@ class StoryStepCard extends StatefulWidget {
 
 class _StoryStepCardState extends State<StoryStepCard> {
   bool _isExpanded = true;
+  int? _backgroundRating;
+  bool _hasSubmittedBackgroundRating = false;
+  double _backgroundHue = 180;
+  String _backgroundStyle = '水彩手绘';
+
+  bool get _isBackgroundImageStep => widget.asset.kind == 'background_image';
 
   bool get _canCollapse {
     return widget.asset.status == StoryAssetStatus.ready ||
@@ -875,6 +882,84 @@ class _StoryStepCardState extends State<StoryStepCard> {
     if (!_canCollapse && !_isExpanded) {
       _isExpanded = true;
     }
+    if (!identical(oldWidget.asset, widget.asset)) {
+      _backgroundRating = null;
+      _hasSubmittedBackgroundRating = false;
+      _backgroundHue = 180;
+      _backgroundStyle = '水彩手绘';
+    }
+  }
+
+  void _handleBackgroundRatingSubmit() {
+    if (_backgroundRating == null) {
+      return;
+    }
+    setState(() {
+      _hasSubmittedBackgroundRating = true;
+    });
+    final messenger = ScaffoldMessenger.maybeOf(context);
+    messenger?.hideCurrentSnackBar();
+    messenger?.showSnackBar(
+      const SnackBar(content: Text('AI已经学习到你的评价！')),
+    );
+  }
+
+  Future<void> _pickBackgroundStyle() async {
+    if (!_isBackgroundImageStep) return;
+    const styles = [
+      '水彩手绘',
+      '粉笔板绘',
+      '赛博霓虹',
+      '东方童话',
+      '未来主义',
+      '经典油画',
+    ];
+    final selected = await showModalBottomSheet<String>(
+      context: context,
+      builder: (context) {
+        return SafeArea(
+          child: Column(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              const Padding(
+                padding: EdgeInsets.symmetric(vertical: 12),
+                child: Text(
+                  '选择生成风格',
+                  style: TextStyle(fontSize: 16, fontWeight: FontWeight.w600),
+                ),
+              ),
+              const Divider(height: 1),
+              SizedBox(
+                height: math.min(360, styles.length * 56.0),
+                child: ListView(
+                  shrinkWrap: true,
+                  children: styles.map((style) {
+                    final selected = style == _backgroundStyle;
+                    return ListTile(
+                      title: Text(style),
+                      trailing: selected
+                          ? const Icon(Icons.check, color: GlowUpColors.primary)
+                          : null,
+                      onTap: () => Navigator.pop(context, style),
+                    );
+                  }).toList(),
+                ),
+              ),
+            ],
+          ),
+        );
+      },
+    );
+    if (selected != null && selected.trim().isNotEmpty && mounted) {
+      setState(() {
+        _backgroundStyle = selected;
+        _hasSubmittedBackgroundRating = false;
+      });
+    }
+  }
+
+  Color _mainColorPreview() {
+    return HSVColor.fromAHSV(1, _backgroundHue, 0.6, 0.95).toColor();
   }
 
   @override
@@ -883,6 +968,8 @@ class _StoryStepCardState extends State<StoryStepCard> {
         widget.asset.summary ?? _defaultSummary(widget.asset.kind);
     final statusChip = _buildStatusChip(widget.asset);
     final canCollapse = _canCollapse;
+    final isGenerating = widget.isBusy &&
+        widget.asset.status == StoryAssetStatus.generating;
 
     return Padding(
       padding: const EdgeInsets.only(bottom: 16),
@@ -935,11 +1022,7 @@ class _StoryStepCardState extends State<StoryStepCard> {
                     runSpacing: 8,
                     children: [
                       ElevatedButton.icon(
-                        onPressed: widget.isBusy &&
-                                widget.asset.status ==
-                                    StoryAssetStatus.generating
-                            ? null
-                            : widget.onGenerate,
+                        onPressed: isGenerating ? null : widget.onGenerate,
                         icon: const Icon(Icons.auto_fix_high),
                         label: const Text('让小光生成'),
                       ),
@@ -959,6 +1042,135 @@ class _StoryStepCardState extends State<StoryStepCard> {
                       ),
                     ],
                   ),
+                  if (_isBackgroundImageStep) ...[
+                    const Divider(height: 32),
+                    Text(
+                      '背景图微调',
+                      style: Theme.of(context)
+                          .textTheme
+                          .titleSmall
+                          ?.copyWith(fontWeight: FontWeight.w600),
+                    ),
+                    const SizedBox(height: 8),
+                    Text(
+                      '主色彩（色相）',
+                      style: Theme.of(context)
+                          .textTheme
+                          .bodySmall
+                          ?.copyWith(fontWeight: FontWeight.w600),
+                    ),
+                    Row(
+                      children: [
+                        Expanded(
+                          child: Slider(
+                            value: _backgroundHue,
+                            min: 0,
+                            max: 360,
+                            divisions: 36,
+                            label: '${_backgroundHue.round()}°',
+                            onChanged: (value) {
+                              setState(() {
+                                _backgroundHue = value;
+                                _hasSubmittedBackgroundRating = false;
+                              });
+                            },
+                          ),
+                        ),
+                        Container(
+                          width: 36,
+                          height: 36,
+                          decoration: BoxDecoration(
+                            color: _mainColorPreview(),
+                            borderRadius: BorderRadius.circular(8),
+                            border: Border.all(color: Colors.black12),
+                          ),
+                        ),
+                      ],
+                    ),
+                    Align(
+                      alignment: Alignment.centerLeft,
+                      child: Text(
+                        '当前主色：${_backgroundHue.round()}°',
+                        style: Theme.of(context).textTheme.bodySmall,
+                      ),
+                    ),
+                    const SizedBox(height: 12),
+                    Wrap(
+                      spacing: 12,
+                      runSpacing: 8,
+                      children: [
+                        OutlinedButton.icon(
+                          onPressed: isGenerating ? null : widget.onGenerate,
+                          icon: const Icon(Icons.refresh),
+                          label: const Text('重新生成'),
+                        ),
+                        OutlinedButton.icon(
+                          onPressed: _pickBackgroundStyle,
+                          icon: const Icon(Icons.brush),
+                          label: Text('风格：$_backgroundStyle'),
+                        ),
+                      ],
+                    ),
+                    const SizedBox(height: 8),
+                    Text(
+                      '小光会尝试以当前色调与“$_backgroundStyle”风格构图，方便课堂主题统一。',
+                      style: Theme.of(context)
+                          .textTheme
+                          .bodySmall
+                          ?.copyWith(color: Colors.grey[600]),
+                    ),
+                    const SizedBox(height: 12),
+                    Text(
+                      '给这张背景图打个分（1-10）',
+                      style: Theme.of(context).textTheme.bodyMedium,
+                    ),
+                    const SizedBox(height: 8),
+                    Wrap(
+                      spacing: 8,
+                      runSpacing: 8,
+                      children: List<Widget>.generate(10, (index) {
+                        final score = index + 1;
+                        final selected = _backgroundRating == score;
+                        return ChoiceChip(
+                          label: Text('$score 分'),
+                          selected: selected,
+                          showCheckmark: false,
+                          selectedColor:
+                              GlowUpColors.primary.withOpacity(0.15),
+                          onSelected: (_) {
+                            setState(() {
+                              _backgroundRating = score;
+                              _hasSubmittedBackgroundRating = false;
+                            });
+                          },
+                        );
+                      }),
+                    ),
+                    const SizedBox(height: 12),
+                    Align(
+                      alignment: Alignment.centerRight,
+                      child: ElevatedButton(
+                        onPressed: _backgroundRating == null
+                            ? null
+                            : _handleBackgroundRatingSubmit,
+                        child: const Text('提交评分'),
+                      ),
+                    ),
+                    if (_hasSubmittedBackgroundRating)
+                      Padding(
+                        padding: const EdgeInsets.only(top: 8),
+                        child: Text(
+                          'AI已经学习到你的评价！',
+                          style: Theme.of(context)
+                              .textTheme
+                              .bodySmall
+                              ?.copyWith(
+                                color: GlowUpColors.primary,
+                                fontWeight: FontWeight.w600,
+                              ),
+                        ),
+                      ),
+                  ],
                   if (widget.asset.status == StoryAssetStatus.generating)
                     const Padding(
                       padding: EdgeInsets.only(top: 8),
